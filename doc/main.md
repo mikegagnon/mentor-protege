@@ -1,5 +1,20 @@
 - [About this document](##about)
 - [Summary](##summary)
+- [Supplementary information](##sup)
+- [Contact SBA](##contact)
+
+~sup
+## Supplementary information
+
+This rule initially appeared in the Regulatory Agenda of Fall 2010 with the title "Small Business Jobs Act: Small Business Mentor-Protégé Programs."" SBA carried this rule title until the Regulatory Agenda of Spring 2013 when the reference to the Jobs Act was taken out, and the title changed to "Small Business Mentor-Protégé Programs." This change reflected the statutory amendments in section 1641 of NDAA 2013. However, when the proposed rule 
+was published, the title had been changed to: "Small Business Mentor Protégé Program; Small Business Size Regulations; Government Contracting Programs; 8(a) Business Development/ Small Disadvantaged Business Status Determinations; HUBZone Program; Women-Owned Small Business Federal Contract Program; Rules of Procedure Governing Cases Before the Office of Hearings and Appeals." In drafting this final rule, SBA concluded that the simpler current title ("Small Business Mentor Protégé Programs") is easier for the public to understand and would be consistent with the title that has been publicly reported in the Regulatory Agenda since 2013.
+
+~contact
+## Contact SBA
+
+Brenda Fernandez, U.S. Small Business Administration, Office of Government Contracting, 409 3rd Street SW., 8th Floor, Washington, DC 20416; (202) 205–7337;
+[brenda.fernandez@sba.gov](mailto:brenda.fernandez@sba.gov).
+
 
 ~about
 ## About this document
@@ -18,7 +33,7 @@ This document is an adaption of the [Federal Register, Vol. 81, No. 142](https:/
 
 In August 2016, a Small Business Administration (SBA) rule went into effect, establishing a mentor-protégé  program, consistent with SBA’s [8(a) Business Development (BD) program](##8a).
 
-The rule also made [other changes](##other-changes).
+The rule also made a few [other changes](##other-changes).
 
 ~other-changes
 ## Other changes
