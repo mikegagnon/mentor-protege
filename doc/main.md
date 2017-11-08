@@ -68,6 +68,8 @@ On January 2, 2013, the President signed into law the NDAA 2013, Public Law 112�
 ~80-fr
 ## 80 FR 6618
 
+On February 5, 2015, SBA published in the Federal Register a comprehensive proposal to implement a new Government-wide mentor-protégé program for all small businesses. 80 FR 6618. SBA decided to implement one new small business mentor-protégé program instead of four new mentor- protégé programs (one for small businesses, one for SDVO small businesses, one for WOSBs and one for HUBZone small businesses) since the other three types of small businesses (SDVO, HUBZone and women-owned) would be necessarily included within any mentor-protégé program targeting all small business concerns. SBA did not eliminate the 8(a) BD mentor- protégé program. Thus, the intent was to propose two separate mentor-protégé programs, one for 8(a) BD Participants and one for all small businesses (including 8(a) Participants if they choose to create a small business mentor-protégé relationship instead of a mentor-protégé relationship under the 8(a) BD program). The small business mentor-protégé program was drafted to be as similar to the 8(a) mentor-protégé program as possible.
+
 ~history-title
 ## History of the rule title
 
