@@ -6,6 +6,7 @@
 body {
   overflow:hidden; /* This will remove the default scroll, not really needed, safer nonetheless */
   font-family: serif;
+  font-size: 10pt;
 }
 html {
   font-family: serif;
@@ -21,6 +22,7 @@ i {
   font-style: italic;
 }
 h1 {
+  font-size: 20pt;
   margin-top: 15px;
   margin-left: 43px;
 }
@@ -90,15 +92,15 @@ a {
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 17pt;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 16pt;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 16pt;
 }
 
 #breadcrumbs {

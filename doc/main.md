@@ -1,7 +1,24 @@
 - [About this document](##about)
 - [Summary](##summary)
+- [Background](##background)
 - [History of the rule title](##history-title)
 - [Contact SBA](##contact)
+
+~background
+## Background
+
+- [Small Business Jobs Act of 2010](##sbja-2010)
+- [National Defense Authorization Act for Fiscal Year 2013](##ndaa-2013)
+- [80 FR 6618](##80-fr)
+
+~sbja-2010
+## Small Business Jobs Act of 2010
+
+~ndaa-2013
+## National Defense Authorization Act for Fiscal Year 2013
+
+~80-fr
+## 80 FR 6618
 
 ~history-title
 ## History of the rule title
