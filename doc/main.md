@@ -8,14 +8,62 @@
 ## Background
 
 - [Small Business Jobs Act of 2010](##sbja-2010)
-- [National Defense Authorization Act for Fiscal Year 2013](##ndaa-2013)
+- [National Defense Authorization Act (NDAA) for Fiscal Year 2013](##ndaa-2013)
 - [80 FR 6618](##80-fr)
 
 ~sbja-2010
 ## Small Business Jobs Act of 2010
 
+On September 27, 2010, the President signed into law the Small Business Jobs Act of 2010 ([Jobs Act](##jobs-act)).
+
+With the enactment of the Jobs Act, Congress recognized that mentor-protégé programs serve an important business development function for small business and authorized SBA to establish [mentor-protégé programs](##disadvantaged), each modeled on SBA’s existing mentor-protégé program available to 8(a) Business Development (BD) Program Participants.
+
+See section 1347(b)(3) of the Jobs Act.
+
+~disadvantaged
+## Mentor-protégé programs
+
+The Jobs Act created mentor-protégé programs for:
+
+* The Service-Disabled Veteran-Owned Small Business Concern (SDVO SBC) Program
+* The HUBZone Program
+* The Women-Owned Small Business (WOSB) Program
+
+~jobs-act
+## Jobs Act
+
+The Jobs Act was designed to protect the interests of small businesses and increase opportunities in the Federal marketplace.
+
+See Public Law 111–240, 124 Stat. 2504
+
 ~ndaa-2013
-## National Defense Authorization Act for Fiscal Year 2013
+## NDAA for Fiscal Year 2013
+
+Section 1641 of NDAA 2013 authorized SBA to establish a mentor-protégé program for all small business concerns.
+
+This section further provides that a small business mentor-protégé program must be [nearly](##nearly) identical to the 8(a) BD mentor-protégé program.
+
+Section 1641 also [limits](##limits-1641) other agencies ability to create mentor-protégé programs.
+
+~limits-1641
+## Limits
+
+Section 1641 provides that a Federal department or agency could not carry out its own agency specific mentor-protégé program for small businesses unless the head of the department or agency submitted a plan for such a program to SBA and received the SBA Administrator’s approval of the plan.
+
+Finally, section 1641 requires the head of each Federal department or agency carrying out an agency-specific mentor-protégé program to report annually to SBA the participants in its mentor-protégé program, the assistance provided to small businesses through the program, and the progress of protégé firms to compete for Federal prime contracts and subcontracts.
+
+~nearly
+## Nearly
+
+SBA may modify the program to the extent necessary, given the types of small business concerns to be included as protégés.
+
+~1641
+## Section 1641
+
+~ndaa-2013-details
+## Details
+
+On January 2, 2013, the President signed into law the NDAA 2013, Public Law 112–239, 126 Stat. 1632.
 
 ~80-fr
 ## 80 FR 6618
