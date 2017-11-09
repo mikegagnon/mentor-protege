@@ -43,17 +43,22 @@ then SBA [extended](##extended-cp) the comment period another 30 days.
 
 In addition to providing a 90-day comment period, SBA also conducted a series of [tribal consultations](##tribal) pursuant to Executive Order 13175, Tribal Consultations.
 
-[Foo](##foo)
+[Comments](##comments2)
 
-~foo
-## Foo
+~comments2
+## Comments
 
 One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program,
 and [SBA disagreed](##sba-disagree).
 
+One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement).
 
+Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 
-One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement) .
+~supporting
+## Supporting
+
+These commenters believed that a small business mentor-protégé  program would enable firms that are not in the 8(a) BD program to receive critical business development assistance that would otherwise not be available to them. Many of these commenters expressed support for the opportunity to gain meaningful expertise that would help them to independently perform more complex and higher value contracts in the future.
 
 ~cancel-mpa
 ## Cancel a MPA
