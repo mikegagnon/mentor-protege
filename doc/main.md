@@ -71,13 +71,37 @@ A few comments [opposed](##formal-informal-comments) that provision of the propo
 
 The commenters believed that entering into a formal or informal partnership often comes with certain [obligations](##joint-obligations) that may not be intended under a joint venture.
 
-One commenter recommended that SBA should replace the phrase "formal or informal partnership" with the words "[contractual affiliation](##contract-aff)."
+One commenter recommended that SBA should replace the phrase "formal or informal partnership" with the words "[contractual affiliation](##contract-aff)," and SBA disagreed.
 
 ~contract-aff
 ## Contractual affiliation
 
- SBA does not agree that this recommended change would be beneficial. First, SBA believes that the term "contractual affiliation" is not precise and would cause confusion. Moreover, SBA continues to believe that state law would recognize an "informal" joint venture with a written document setting forth the responsibilities of the joint venture partners as some sort of partnership. As such, this rule merely identifies the consequences of forming an informal joint venture and should assist firms in determining what type of joint venture meets the parties’ needs in each case. If the joint venture partners do not want the associated consequences of being considered a partnership, then it might be beneficial for the joint venture to be formed as a limited liability company. Therefore, this final rule adopts the proposed language and specifies that a joint venture may be a formal or informal partnership or exist as a separate limited liability company or other separate legal entity. However, regardless of form, the joint venture must be reduced to a written agreement.
+SBA does not agree that this recommended change would be beneficial, for two
+reasons:
 
+1. It could create [confusion](##confusion-contract)
+2. It could muddy [partnership status](##unwanted-partner).
+
+
+
+ 
+
+~unwanted-partner
+## Partnership status
+
+SBA continues to believe that state law would recognize an "informal" joint venture with a written document setting forth the responsibilities of the joint venture partners as some sort of partnership.
+
+As such, this rule merely identifies the consequences of forming an informal joint venture and should assist firms in determining what type of joint venture meets the parties’ needs in each case.
+
+If the joint venture partners do not want the associated consequences of being considered a partnership, then it might be beneficial for the joint venture to be formed as a limited liability company.
+
+Therefore, this final rule adopts the proposed language and specifies that a joint venture may be a formal or informal partnership or exist as a separate limited liability company or other separate legal entity. However, regardless of form, the joint venture must be reduced to a written agreement.
+
+
+~confusion-contract
+## Confusion
+
+SBA believes that the term "contractual affiliation" is not precise and would cause confusion.
 
 ~joint-obligations
 ## Obligations
