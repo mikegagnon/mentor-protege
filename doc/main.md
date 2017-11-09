@@ -10,6 +10,31 @@
 - [Small Business Jobs Act of 2010](##sbja-2010)
 - [National Defense Authorization Act (NDAA) for Fiscal Year 2013](##ndaa-2013)
 - [80 FR 6618](##80-fr)
+- [Comment period](##comments)
+
+~comments
+## Comment period
+
+The proposed rule called for a 60-day comment period,
+then SBA [extended](##extended-cp) the comment period another 30 days.
+
+
+
+In addition to providing a 90-day comment period, SBA also conducted a series of [tribal consultations](##tribal) pursuant to Executive Order 13175, Tribal Consultations.
+
+~tribal
+## Tribal consultations
+
+SBA conducted three in-person tribal consultations (in Washington, DC on February 26, 2015, in Tulsa, Oklahoma on April 21, 2015, and in Anchorage, Alaska on April 23, 2015) and two telephonic tribal consultations (one on April 7, 2015, and a Hawaii/Native Hawaiian Organization specific one on April 8, 2015).
+
+~extended-cp
+## Extended
+
+Originally, comments were required to be made to SBA by April 6, 2015.
+
+The overriding comment SBA received in the first few weeks after the publication was to extend the comment period.
+
+In response to these comments, SBA published a notice in the Federal Register on April 7, 2015, extending the comment period an additional 30 days to May 6, 2015. 80 FR 18556.
 
 ~sbja-2010
 ## Small Business Jobs Act of 2010
@@ -68,7 +93,33 @@ On January 2, 2013, the President signed into law the NDAA 2013, Public Law 112�
 ~80-fr
 ## 80 FR 6618
 
-On February 5, 2015, SBA published in the Federal Register a comprehensive proposal to implement a new Government-wide mentor-protégé program for all small businesses. 80 FR 6618. SBA decided to implement one new small business mentor-protégé program instead of four new mentor- protégé programs (one for small businesses, one for SDVO small businesses, one for WOSBs and one for HUBZone small businesses) since the other three types of small businesses (SDVO, HUBZone and women-owned) would be necessarily included within any mentor-protégé program targeting all small business concerns. SBA did not eliminate the 8(a) BD mentor- protégé program. Thus, the intent was to propose two separate mentor-protégé programs, one for 8(a) BD Participants and one for all small businesses (including 8(a) Participants if they choose to create a small business mentor-protégé relationship instead of a mentor-protégé relationship under the 8(a) BD program). The small business mentor-protégé program was drafted to be as similar to the 8(a) mentor-protégé program as possible.
+On February 5, 2015, SBA published in the Federal Register a comprehensive proposal to implement a new Government-wide mentor-protégé program for all small businesses, 80 FR 6618.
+
+SBA decided to implement one new small business mentor-protégé program instead of [four](##four) new mentor- protégé programs
+
+SBA [did not eliminate](##all-sb) the 8(a) BD mentor- protégé program.
+
+
+The small business mentor-protégé program was drafted to be as similar to the 8(a) mentor-protégé program as possible.
+
+~all-sb
+## Did not eliminate
+
+The intent was to propose two separate mentor-protégé programs, one for 8(a) BD Participants and one for all small businesses 
+
+8(a) Participants may choose to create a small business mentor-protégé relationship instead of a mentor-protégé relationship under the 8(a) BD program.
+
+
+
+~four
+## Four
+
+ 1. One for small businesses
+ 2. One for SDVO small businesses
+ 3. One for WOSBs
+ 4. One for HUBZone small businesses
+
+SBA made the decision to create one program since the other three types of small businesses (SDVO, HUBZone and women-owned) would be necessarily included within any mentor-protégé program targeting all small business concerns.
 
 ~history-title
 ## History of the rule title
