@@ -82,7 +82,7 @@ reasons:
 1. It could create [confusion](##confusion-contract)
 2. It could muddy [partnership status](##unwanted-partner).
 
-
+Therefore, this final rule adopts the proposed language and specifies that a joint venture may be a formal or informal partnership or exist as a separate limited liability company or other separate legal entity. However, regardless of form, the joint venture must be reduced to a written agreement.
 
  
 
@@ -95,7 +95,7 @@ As such, this rule merely identifies the consequences of forming an informal joi
 
 If the joint venture partners do not want the associated consequences of being considered a partnership, then it might be beneficial for the joint venture to be formed as a limited liability company.
 
-Therefore, this final rule adopts the proposed language and specifies that a joint venture may be a formal or informal partnership or exist as a separate limited liability company or other separate legal entity. However, regardless of form, the joint venture must be reduced to a written agreement.
+
 
 
 ~confusion-contract
