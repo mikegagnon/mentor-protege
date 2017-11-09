@@ -55,6 +55,13 @@ One commenter requested clarification as to when and how SBA would [cancel a MPA
 
 Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 
+[Foo](##foo)
+
+~foo
+## Foo
+
+This rule implements a mentor-protégé program similar to the 8(a) BD mentor-protégé program for all small business concerns. The rule adds this program to a new § 125.9 of SBA’s regulations. SBA proposed one program for all small businesses because SBA believed it would be easier for the small business and acquisition communities to use and understand. However, SBA specifically requested comments as to whether SBA should finalize one small business mentor-protégé program, as proposed, or, rather, five separate mentor-protégé programs for the various small business entities. Most commenters supported having one new small business mentor-protégé program instead of four new mentor-protégé programs (one for SDVO small businesses, one for HUBZone small businesses, one for WOSBs, and one for small businesses not falling into one of the other categories). They agreed that it would be less confusing to deal with one new program, rather than four new programs, and that it was not necessary to have four separate mentor-protégé programs since the three subcategories of small business are necessarily included within the overall category of small business. Many of the commenters were concerned, however, that changes could be made to the current 8(a) BD mentor-protégé program. Specifically, commenters were concerned that SBA might want to eliminate the 8(a) BD mentor-protégé program as a separate program and instead roll it into the small business mentor-protégé program. SBA has considered those concerns and has decided to keep the 8(a) BD mentor- protégé program as a separate program. That program has independently operated successfully for a number of years and SBA believes that it serves important business development purposes that should continue to be coordinated through SBA’s Office of Business Development, rather than through a separate mentor-protégé office managed elsewhere within the Agency. As such, this final rule makes no changes as to how MPAs are processed for the 8(a) BD program.
+
 ~supporting
 ## Supporting
 
