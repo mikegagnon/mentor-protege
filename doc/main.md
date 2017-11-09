@@ -16,7 +16,24 @@
 ~purpose-8a
 ## Purpose of 8(a) BD
 
-The mentor-protégé program available to firms participating in the 8(a) BD program is used as a business development tool in which mentors provide diverse types of business assistance to eligible 8(a) BD protégés. This assistance may include, among other things, technical and/or management assistance; financial assistance in the form of equity investments and/or loans; subcontracts; and/or assistance in performing Federal prime contracts through joint venture arrangements. The explicit purpose of the 8(a) BD mentor-protégé relationship is to enhance the capabilities of protégés and to improve their ability to successfully compete for both government and commercial contracts. Similarly, the mentor-protégé program for all small business concerns is designed to require approved mentors to provide assistance to protégé firms in order to enhance the capabilities of protégés, to assist protégés with meeting their business goals, and to improve the ability of protégés to compete for contracts.
+The mentor-protégé program available to firms participating in the 8(a) BD program is used as a business development tool in which mentors provide diverse types of [business assistance](##ba) to eligible 8(a) BD protégés.
+
+The explicit purpose of the 8(a) BD mentor-protégé relationship is to enhance the capabilities of protégés and to improve their ability to successfully compete for both government and commercial contracts.
+
+Similarly, the mentor-protégé program for all small business concerns is designed to require approved mentors to provide [assistance](##a) to protégé firms.
+
+~a
+## Assistance
+
+The purpose of the assistance is to enhance the capabilities of protégés, to assist protégés with meeting their business goals, and to improve the ability of protégés to compete for contracts.
+
+~ba
+## Business assistance
+
+This assistance may include, among other things, technical and/or management assistance; financial assistance in the form of equity investments and/or loans; subcontracts; and/or assistance in performing Federal prime contracts through joint venture arrangements.
+
+
+
 
 ~comments
 ## Comment period
