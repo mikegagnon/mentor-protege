@@ -63,12 +63,7 @@ Most commenters supported having [one](##one) new small business mentor-protég�
 This rule implements a mentor-protégé program similar to the 8(a) BD mentor-protégé program for all small business concerns.<sup>[1](##125-9)</sup>
 
 
-SBA proposed one program for all small businesses,<sup>[2](##one-program-easier)</sup> and requested comments on this proposal.<sup>[3](##one-program-comments)</sup>
-
-
-Most commenters supported this proposal.<sup>[4](##one-program-support)</sup>
-
-Many of the commenters were concerned, however, that changes could be made to the current 8(a) BD mentor-protégé program.<sup>[5](##8a-change-concern)</sup>
+SBA proposed one program for all small businesses,<sup>[2](##one-program-easier)</sup> and requested comments on this proposal.<sup>[3](##one-program-comments)</sup> Most commenters supported this proposal.<sup>[4](##one-program-support)</sup> Many of the commenters were concerned, however, that changes could be made to the current 8(a) BD mentor-protégé program.<sup>[5](##8a-change-concern)</sup>
 
 SBA has considered those concerns and has decided to keep the 8(a) BD mentor-protégé program as a separate program.<sup>[6](##8a-keep)</sup>
 
