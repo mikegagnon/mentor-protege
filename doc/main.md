@@ -45,6 +45,13 @@ In addition to providing a 90-day comment period, SBA also conducted a series of
 
 [Comments](##comments2)
 
+In response to the 90-day comment period, SBA received [113 comments](##113).
+
+~113
+## 113 comments
+
+Most of the commenters commented on multiple proposed provisions. With the exception of comments that did not set forth any rationale or make suggestions, SBA discusses and responds fully to all the comments below.
+
 ~comments2
 ## Comments
 
@@ -55,7 +62,9 @@ One commenter requested clarification as to when and how SBA would [cancel a MPA
 
 Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 
-Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs
+Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
+
+
 
 ~one
 ## One new small business mentor-protégé program 
