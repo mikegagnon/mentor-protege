@@ -47,10 +47,48 @@ In addition to providing a 90-day comment period, SBA also conducted a series of
 
 In response to the 90-day comment period, SBA received [113 comments](##113).
 
+Summary of Comments and SBA’s Response
+
 ~113
 ## 113 comments
 
 Most of the commenters commented on multiple proposed provisions. With the exception of comments that did not set forth any rationale or make suggestions, SBA discusses and responds fully to all the comments below.
+
+* Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
+
+~definition-jv
+## Definition of Joint Venture
+
+
+SBA’s size regulations recognize that joint ventures may be [formal or informal](##formal-informal).
+
+A few comments [opposed](##formal-informal-comments) that provision of the proposed rule that identified informal joint ventures as partnerships.
+
+
+
+~formal-informal-comments
+## Opposed
+
+The commenters believed that entering into a formal or informal partnership often comes with certain [obligations](##joint-obligations) that may not be intended under a joint venture.
+
+One commenter recommended that SBA should replace the phrase "formal or informal partnership" with the words "[contractual affiliation](##contract-aff)."
+
+~contract-aff
+## Contractual affiliation
+
+ SBA does not agree that this recommended change would be beneficial. First, SBA believes that the term "contractual affiliation" is not precise and would cause confusion. Moreover, SBA continues to believe that state law would recognize an "informal" joint venture with a written document setting forth the responsibilities of the joint venture partners as some sort of partnership. As such, this rule merely identifies the consequences of forming an informal joint venture and should assist firms in determining what type of joint venture meets the parties’ needs in each case. If the joint venture partners do not want the associated consequences of being considered a partnership, then it might be beneficial for the joint venture to be formed as a limited liability company. Therefore, this final rule adopts the proposed language and specifies that a joint venture may be a formal or informal partnership or exist as a separate limited liability company or other separate legal entity. However, regardless of form, the joint venture must be reduced to a written agreement.
+
+
+~joint-obligations
+## Obligations
+
+For example, partners generally have fiduciary duties to each other, bind one another with their actions, and are jointly and severally liable for the debts of the business.
+
+
+~formal-informal
+## Formal or informal
+
+The proposed rule amended § 121.103(h) to clarify that every joint venture, whether a separate legal entity or an "informal" arrangement that exists between two (or more) parties, must be in writing. SBA never meant that an informal joint venture arrangement could exist without a formal written document setting forth the responsibilities of all parties to the joint venture. SBA merely intended to recognize that a joint venture need not be established as a limited liability company or other formal separate legal entity.
 
 ~comments2
 ## Comments
@@ -83,7 +121,10 @@ In addition, the final rule revises several joint venture provisions.<sup>[7](##
 
 The final rule revises the joint venture provisions contained in § 125.15(b) (for SDVO SBCs, and which are now contained in § 125.18(b)), § 126.616 (for HUBZone SBCs), and § 127.506 (for WOSB and Economically Disadvantaged Women-Owned Small Business (EDWOSB) concerns) to more fully align those requirements to the requirements of the 8(a) BD program.
 
-The rule also adds a new § 125.8 to specify requirements for joint ventures between small business protégé firms and their mentors. The rule also makes several additional changes to current size, 8(a) BD and HUBZone regulations that are needed to clarify certain provisions or correct interpretations of the regulations that were inconsistent with SBA’s intent. These changes, the comments to the proposed rule, and SBA’s response to the comments are set forth more fully below.
+The rule also adds a new § 125.8 to specify requirements for joint ventures between small business protégé firms and their mentors. The rule also makes several additional changes to current size, 8(a) BD and HUBZone regulations that are needed to clarify certain provisions or correct interpretations of the regulations that were inconsistent with SBA’s intent.
+
+~junk
+These changes, the comments to the proposed rule, and SBA’s response to the comments are set forth more fully below.
 
 ~8a-keep
 ## Note 6
