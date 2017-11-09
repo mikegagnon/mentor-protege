@@ -41,9 +41,35 @@ This assistance may include, among other things, technical and/or management ass
 The proposed rule called for a 60-day comment period,
 then SBA [extended](##extended-cp) the comment period another 30 days.
 
-
-
 In addition to providing a 90-day comment period, SBA also conducted a series of [tribal consultations](##tribal) pursuant to Executive Order 13175, Tribal Consultations.
+
+[Foo](##foo)
+
+~foo
+## Foo
+
+One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program,
+and [SBA disagreed](##sba-disagree).
+
+
+
+One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement) .
+
+~cancel-mpa
+## Cancel a MPA
+
+SBA’s analysis as to whether a protégé  firm is adequately benefiting from the relationship or whether non-compliance with one or more specific terms or conditions of the MPA should warrant termination of the agreement is a fact specific determination to be made based on the totality of the circumstances. SBA would not terminate a particular MPA where there are de minimus or inadvertent violations of the agreement.
+In addition, it is not SBA’s intent to terminate a particular MPA without considering the views of the protégé firm. However, the mere fact that a protégé wants the mentor-protégé relationship to continue will not be dispositive if SBA believes that termination is justified.
+
+~sba-disagree
+## SBA disagreed
+
+In the current 8(a) BD mentor-protégé  program, in order for any mentor-protégé  relationship to continue, the 8(a) protégé  firm must demonstrate annually what benefits it has derived from the mentor-protégé  relationship. Where the benefits provided to the protégé  firm are minimal or where it appears that the relationship has been used primarily to permit a non–8(a) (oftentimes, large) mentor to benefit from contracts with its approved protégé, through one or more joint ventures, that it would otherwise not be eligible for, SBA will terminate the mentor-protégé  relationship. The proposed rule also provided that SBA may terminate the mentor-protégé  agreement (MPA) where it determines that the parties are not complying with any term or condition of the MPA. This rule requires similar reporting of benefits for non–8(a) protégé  firms and similar consequences where the benefits provided to the protégé  firm do not adequately justify the mentor-protégé  relationship.
+
+~opposed
+## Opposed
+
+The commenter believed that it has not been established that the 8(a) mentor-protégé  program is bestowing a substantial benefit on 8(a) Participants, and, therefore, SBA should perform additional research and analysis before expanding the program.
 
 ~tribal
 ## Tribal consultations
