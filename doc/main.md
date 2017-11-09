@@ -89,8 +89,23 @@ In addition, the proposed rule specified that if a joint venture exists as a for
 ~may-not-be-populated
 ## Note 1
 
-This is a change from the current regulation that allows a separate legal entity joint venture to be unpopulated, to be populated with administrative personnel only, or to be populated with its own separate employees that are intended to perform contracts awarded to the joint venture. SBA explained that it is concerned that allowing populated joint ventures between a mentor and protégé would not ensure that the protégé firm and its employees benefit by developing new expertise, experience, and past performance. The separate joint venture entity would gain those things. If the individuals hired by the joint venture to perform the work under the contract did not come from the protégé firm, there is no guarantee that they would ultimately end up working for the protégé firm after the contract is completed. In such a case, the protégé firm would have gained nothing out of that contract. The
+This is a change from the current regulation.<sup>[1](##regulation-change-joint)</sup> 
 
+SBA explained that it is concerned that allowing populated joint ventures between a mentor and protégé would not ensure that the protégé firm and its employees benefit by developing new expertise, experience, and past performance. The separate joint venture entity would gain those things.<sup>[2](##gain-those-things)</sup> 
+
+~gain-those-things
+## Note 2
+
+If the individuals hired by the joint venture to perform the work under the contract did not come from the protégé firm, there is no guarantee that they would ultimately end up working for the protégé firm after the contract is completed.
+
+In such a case, the protégé firm would have gained nothing out of that contract.
+
+The company itself did not perform work under the contract and the individual employees who performed work did not at any point work for the protégé firm.
+
+~regulation-change-joint
+## Note 1
+
+The current regulation allows a separate legal entity joint venture to be unpopulated, to be populated with administrative personnel only, or to be populated with its own separate employees that are intended to perform contracts awarded to the joint venture.
  
 
 ~unwanted-partner
