@@ -67,6 +67,15 @@ SBA proposed one program for all small businesses,<sup>[2](##one-program-easier)
 
 SBA has considered those concerns and has decided to keep the 8(a) BD mentor-protégé program as a separate program.<sup>[6](##8a-keep)</sup>
 
+In addition, the final rule revises several joint venture provisions.<sup>[7](##revisions)</sup>
+
+~revisions
+## Note 7
+
+The final rule revises the joint venture provisions contained in § 125.15(b) (for SDVO SBCs, and which are now contained in § 125.18(b)), § 126.616 (for HUBZone SBCs), and § 127.506 (for WOSB and Economically Disadvantaged Women-Owned Small Business (EDWOSB) concerns) to more fully align those requirements to the requirements of the 8(a) BD program.
+
+The rule also adds a new § 125.8 to specify requirements for joint ventures between small business protégé firms and their mentors. The rule also makes several additional changes to current size, 8(a) BD and HUBZone regulations that are needed to clarify certain provisions or correct interpretations of the regulations that were inconsistent with SBA’s intent. These changes, the comments to the proposed rule, and SBA’s response to the comments are set forth more fully below.
+
 ~8a-keep
 ## Note 6
 
