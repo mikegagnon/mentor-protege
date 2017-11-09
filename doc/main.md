@@ -84,6 +84,13 @@ reasons:
 
 Therefore, this final rule adopts the proposed language and specifies that a joint venture may be a formal or informal partnership or exist as a separate limited liability company or other separate legal entity. However, regardless of form, the joint venture must be reduced to a written agreement.
 
+In addition, the proposed rule specified that if a joint venture exists as a formal separate legal entity, it may *not* be populated with individuals intended to perform contracts awarded to the joint venture.<sup>[1](##may-not-be-populated)</sup>
+
+~may-not-be-populated
+## Note 1
+
+This is a change from the current regulation that allows a separate legal entity joint venture to be unpopulated, to be populated with administrative personnel only, or to be populated with its own separate employees that are intended to perform contracts awarded to the joint venture. SBA explained that it is concerned that allowing populated joint ventures between a mentor and protégé would not ensure that the protégé firm and its employees benefit by developing new expertise, experience, and past performance. The separate joint venture entity would gain those things. If the individuals hired by the joint venture to perform the work under the contract did not come from the protégé firm, there is no guarantee that they would ultimately end up working for the protégé firm after the contract is completed. In such a case, the protégé firm would have gained nothing out of that contract. The
+
  
 
 ~unwanted-partner
