@@ -66,6 +66,26 @@ A few comments [opposed](##formal-informal-comments) that provision of the propo
 
 SBA received comments on [both](##both-joint) sides of this issue.
 
+SBA received [comments](##inspect-comments) on its proposal to require joint venture partners to allow SBA’s authorized representatives, including representatives authorized by the SBA Inspector General, to access its files and inspect and copy records and documents when necessary.
+
+~inspect-comments
+## Comments
+
+Several commenters requested SBA to clarify that the access should be limited to documents and records relating to the joint venture, not to unrelated documents of the joint venture partners themselves. SBA [agrees](##inspect-agree).
+
+A few commenters also recommended that SBA should provide reasonable notice before it sought access to such records. SBA [disagrees](##inspect-disagree).
+
+
+~inspect-agree
+## Agrees
+
+SBA has amended §§ 124.513(i), 125.8(h), 125.18(b)(8), 126.616(h), and 127.506(i) to clarify that SBA’s access would be related to files, records and documents of the joint venture.
+
+~inspect-disagree
+## Disagrees
+
+SBA’s Office of Inspector General must be able to have unlimited access when investigating potential violations of SBA’s regulations. In a potential fraud case, providing notice could cause a destruction of records or provide time for a party to create the appearance of complying with applicable requirements. As such, this final rule does not require SBA to provide reasonable notice before seeking access to joint venture files, records and documents. SBA notes, however, that in its normal oversight responsibilities not related to any investigation of alleged wrongdoing, SBA would generally provide reasonable notice.
+
 ~both-joint
 ## Both
 
@@ -83,11 +103,17 @@ Many of these commenters believed that populated joint venture companies are an 
 SBA understands the competitive argument and holds that populated joint ventures are still [undesirable](##competitive-disagree).
 
 ~competitive-disagree
-## Disagrees
+## Undesirable
 
 1. SBA believes populated joint ventures [do not enhance](##do-not-enhance) small protégé firms
 2. A joint venture between a protégé firm and its mentor is intended to [promote](##disagree-promote) the business development of the protégé firm
-3. In addition, populated joint ventures create [unique problems](##disagree-unique) in the HUBZone program.
+3. In addition, populated joint ventures create [unique problems](##disagree-unique) in the HUBZone program
+4. Populated joint ventures hinder the ability to [identify benefits](##benefits-id) that protégé firms receive
+
+~benefits-id
+## Identify benefits
+
+SBA continues to believe that the benefits received by a protégé from a joint venture are more readily identifiable where the work done on behalf of the joint venture is performed by the protégé and the mentor separately. In such a case, it is much easier to determine that the protégé firm performed at least 40% of all work done by the joint venture, performed more than merely ministerial or administrative work, and otherwise gained experience that could be used to perform a future contract independently. Thus, this rule adopts the proposed language to allow a separate legal entity joint venture to have its own separate employees to perform administrative functions, but not to have its own separate employees to perform contracts awarded to the joint venture.
 
 ~do-not-enhance
 ## Do not enhance
