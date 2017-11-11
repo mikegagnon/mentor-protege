@@ -64,7 +64,57 @@ SBA’s size regulations recognize that joint ventures may be [formal or informa
 
 A few comments [opposed](##formal-informal-comments) that provision of the proposed rule that identified informal joint ventures as partnerships.
 
+SBA received comments on [both](##both-joint) sides of this issue.
 
+~both-joint
+## Both
+
+Several commenters [supported](##both-supported) the proposed change.
+
+
+
+Several other commenters [opposed](##both-opposed) the elimination of populated joint ventures.
+
+~both-opposed
+## Opposed
+
+Many of these commenters believed that populated joint venture companies are an important mechanism for an entity-owned firm to remain [competitive](##both-opposed-competitive).
+
+SBA understands the competitive argument and holds that populated joint ventures are still [undesirable](##competitive-disagree).
+
+~competitive-disagree
+## Disagrees
+
+1. SBA believes populated joint ventures [do not enhance](##do-not-enhance) small protégé firms
+2. A joint venture between a protégé firm and its mentor is intended to [promote](##disagree-promote) the business development of the protégé firm
+3. In addition, populated joint ventures create [unique problems](##disagree-unique) in the HUBZone program.
+
+~do-not-enhance
+## Do not enhance
+
+Although SBA understands the benefit of using lower indirect costs from a populated joint venture, SBA continues to believe that a small protégé firm does not adequately enhance its expertise or ability to perform larger and more complex contracts on its own in the future when all the work through a joint venture is performed by a populated separate legal entity. 
+
+~disagree-promote
+## Promote
+
+SBA questions how that can be accomplished where the protégé itself performs no work on a particular joint venture contract, and the employees who do the work for the separate legal entity may or may not have any present or future connection to the protégé firm. In the 8(a) BD context, the purpose is to promote the business development of the firm that was admitted to the 8(a) BD program, the protégé firm, not a separate legal entity that is not itself a certified 8(a) Participant.
+
+~disagree-unique
+## Unique problems
+
+HUBZone’s unique requirements with regard to employees, principal office, and residency make maintaining HUBZone status while participating in populated joint ventures difficult. In determining whether an individual should be determined an employee, the HUBZone program utilizes the totality of the circumstances approach and oftentimes a firm will have some individuals not on its payroll considered an employee for HUBZone eligibility purposes. Populated joint ventures present a problem because it can be difficult for firms to determine whom should be counted as an employee at any given time.
+
+~both-opposed-competitive
+## Competitive
+
+They argued that this method of business organization facilitates the development of the disadvantaged small business because it makes the company more competitive in the marketplace. Specifically, these commenters pointed out that a populated joint venture has its own lower indirect costs, which, in turn, lowers the cost to the Government.
+
+~both-supported
+## Supported
+
+The supporters noted that forming a separate legal entity is an undue burden, and questioned whether the firm admitted to the 8(a) program (the protégé small business) would gain any direct benefits if all the work was performed by a separate legal entity.
+
+In addition, several of the commenters appreciated SBA’s attempt to simplify these regulatory requirements.
 
 ~formal-informal-comments
 ## Opposed
