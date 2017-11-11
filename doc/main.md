@@ -43,17 +43,18 @@ then SBA [extended](##extended-cp) the comment period another 30 days.
 
 In addition to providing a 90-day comment period, SBA also conducted a series of [tribal consultations](##tribal) pursuant to Executive Order 13175, Tribal Consultations.
 
-[Comments](##comments2)
+In response to the 90-day comment period, SBA received 113 comments.
 
-In response to the 90-day comment period, SBA received [113 comments](##113).
-
-Summary of Comments and SBA’s Response
+Most of the commenters commented on multiple proposed provisions. With the exception of comments that did not set forth any rationale or make suggestions, SBA discusses and responds fully to all [113 comments](#113).
 
 ~113
 ## 113 comments
 
-Most of the commenters commented on multiple proposed provisions. With the exception of comments that did not set forth any rationale or make suggestions, SBA discusses and responds fully to all the comments below.
-
+* One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program,
+and [SBA disagreed](##sba-disagree).
+* One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement).
+* Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
+* Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
 
 ~definition-jv
@@ -211,20 +212,6 @@ For example, partners generally have fiduciary duties to each other, bind one an
 ## Formal or informal
 
 The proposed rule amended § 121.103(h) to clarify that every joint venture, whether a separate legal entity or an "informal" arrangement that exists between two (or more) parties, must be in writing. SBA never meant that an informal joint venture arrangement could exist without a formal written document setting forth the responsibilities of all parties to the joint venture. SBA merely intended to recognize that a joint venture need not be established as a limited liability company or other formal separate legal entity.
-
-~comments2
-## Comments
-
-One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program,
-and [SBA disagreed](##sba-disagree).
-
-One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement).
-
-Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
-
-Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
-
-
 
 ~one
 ## One new small business mentor-protégé program 
