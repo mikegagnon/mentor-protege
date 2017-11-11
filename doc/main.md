@@ -56,6 +56,33 @@ and [SBA disagreed](##sba-disagree).
 * Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 * Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
+* Comments on [place of performance](##comments-place)
+
+~comments-place
+## Place of performance
+
+In the case of Latvian Connection General Trading and Construction LLC, B–408633, Sept. 18, 2013, 2013 CPD ¶ 224, GAO ruled that § 19.000(b) of the Federal Acquisition Regulation (FAR)limits the application of FAR part 19 (dealing with SBA’s small business programs) to acquisitions conducted in the United States (and its outlying areas).<sup>[1](##place-limits)</sup>
+
+The February 5, 2015 proposed rule proposed to add similar language to
+§§ 124.501, 125.22(b), 126.600, and 127.500, thus specifically authorizing contracting in the 8(a) BD, SDVO, HUBZone and WOSB programs regardless of the place of performance, where appropriate.<sup>[2](##place-feb5)</sup>
+
+SBA received a few comments on this issue.<sup>[3](##place-comments)</sup>
+
+~place-comments
+## Note 3
+
+The commenters supported clarification of the current authority. The regulatory text merely highlights contracting officers’ discretionary authority to use these programs where appropriate regardless of the place of performance.
+
+~place-feb5
+## Note 2
+
+ Although SBA believes that the authority to use those programs in appropriate circumstances overseas already exists, the proposed rule merely sought to make that authority clear. Nothing in the Small Business Act would prohibit the use of those programs in appropriate circumstances overseas.
+
+~place-limits
+## Note 1
+
+The basis for GAO’s ruling was that SBA’s regulations were silent on this issue and therefore, the more specific FAR regulation controlled. Heeding this advice, SBA promulgated regulations to address this issue. Specifically, SBA made wholesale changes to 13 CFR 125.2 on October 2, 2013. As a result, SBA issued a final rule recognizing that small business contracting could be used "regardless of the place of performance." 13 CFR 125.2(a) and (c).
+
 
 ~definition-jv
 ## Definition of Joint Venture
