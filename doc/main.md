@@ -57,7 +57,16 @@ and [SBA disagreed](##sba-disagree).
 * Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
 * Comments on [place of performance](##comments-place)
+* Comments on [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
 
+~comments-hzjv
+## HUBZone Joint Ventures
+
+The HUBZone program is a community growth and development program in which businesses are incentivized to establish principal office locations in, and employ individuals from, areas of chronically high unemployment and/or low income in order to stimulate economic development. To further this purpose, the HUBZone program regulations permitted a joint venture only between a HUBZone SBC and another HUBZone SBC. In authorizing a mentor-protégé relationship for HUBZone qualified SBCs, the proposed rule provided language to allow joint ventures for HUBZone contracts between a HUBZone protégé firm and its mentor, regardless of whether the mentor was itself a HUBZone qualified SBC.
+
+SBA received a significant number of comments on this provision. The commenters overwhelmingly supported allowing a HUBZone qualified SBC that obtained an SBA-approved small business mentor-protégé relationship to be able to joint venture with its mentor on all contracts for which the protégé individually qualified, including HUBZone contracts. The commenters felt that such a provision would allow protégés to perform contracts that they otherwise could not have obtained and truly provide them with expertise and past performance that would help them to individually perform additional contracts in the future.
+
+The commenters expressed that they felt that the purposes of the HUBZone program would be appropriately served by allowing non-HUBZone firms to act as mentors and joint venture with protégé HUBZone firms because the HUBZone firm itself would be developed and would necessarily be required to hire additional HUBZone employees if it sought to remain eligible for future HUBZone contracts.
 ~comments-place
 ## Place of performance
 
