@@ -55,8 +55,9 @@ Comments on:
 * [Expanding](##expanding-comments) beyond 8(a) BD
 * [Canceling an MPA](##cancel-mpa) (mentor protégé agreement)
 * [Supporting comments](##supporting)
+* [One new program](##one)
 
-* Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
+* 
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
 * Comments on [place of performance](##comments-place)
 * Comments on [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
@@ -316,6 +317,8 @@ The proposed rule amended § 121.103(h) to clarify that every joint venture, whe
 ~one
 ## One new small business mentor-protégé program 
  
+Most commenters supported having one new small business mentor-protégé program instead of four new mentor-protégé programs.
+
 This rule implements a mentor-protégé program similar to the 8(a) BD mentor-protégé program for all small business concerns.<sup>[1](##125-9)</sup>
 
 
