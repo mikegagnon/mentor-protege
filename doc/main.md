@@ -59,6 +59,11 @@ and [SBA disagreed](##sba-disagree).
 * Comments on [place of performance](##comments-place)
 * Comments on [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
 * Comments on [joint venture certifications and performance of work reports](##jvc)
+* Comments on [tracking joint venture awards](##jv-tracking)
+
+~jv-tracking
+## Tracking joint venture awards
+
 
 ~jvc
 ## Joint venture certifications and performance of work reports
