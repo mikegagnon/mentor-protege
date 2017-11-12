@@ -45,9 +45,9 @@ In addition to providing a 90-day comment period, SBA also conducted a series of
 
 In response to the 90-day comment period, SBA received 113 comments.
 
-Most of the commenters commented on multiple proposed provisions. With the exception of comments that did not set forth any rationale or make suggestions, SBA discusses and responds fully to all [113 comments](#113).
+Most of the commenters commented on multiple proposed provisions. With the exception of comments that did not set forth any rationale or make suggestions, SBA discusses and responds fully to all [113 comments](##c113).
 
-~113
+~c113
 ## 113 comments
 
 * One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program,
