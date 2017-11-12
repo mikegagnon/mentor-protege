@@ -54,8 +54,8 @@ Comments on:
 
 * [Expanding](##expanding-comments) beyond 8(a) BD
 * [Canceling an MPA](##cancel-mpa) (mentor protégé agreement)
+* [Supporting comments](##supporting)
 
-* Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 * Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
 * Comments on [place of performance](##comments-place)
@@ -373,6 +373,8 @@ The rule adds this program to a new § 125.9 of SBA’s regulations.
 
 ~supporting
 ## Supporting
+
+SBA received a significant number of comments supporting a small business mentor-protégé  program.
 
 These commenters believed that a small business mentor-protégé  program would enable firms that are not in the 8(a) BD program to receive critical business development assistance that would otherwise not be available to them. Many of these commenters expressed support for the opportunity to gain meaningful expertise that would help them to independently perform more complex and higher value contracts in the future.
 
