@@ -58,6 +58,37 @@ and [SBA disagreed](##sba-disagree).
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
 * Comments on [place of performance](##comments-place)
 * Comments on [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
+* Comments on [joint venture certifications and performance of work reports](##jvc)
+
+~jvc
+## Joint venture certifications and performance of work reports
+
+(13 CFR 125.8, 125.18, 126.616, 127.506)
+
+* The proposed rule required mentor-protégé firms to [certify](##jv-certify) compliance to SBA
+* SBA received comments both [supporting](##jv-supporting) and [opposing](##jv-opposing) this approach.
+* [Final rule](##jv-final)
+
+~jv-certify
+## Certify
+
+The proposed rule required all partners to a joint venture agreement that perform a SDVO, HUBZone, WOSB, or small business set-aside contract to certify to the contracting officer and SBA prior to performing any such contract that they will perform the contract in compliance with the joint venture regulations and with the joint venture agreement. In addition, the parties to the joint venture are required to report to the contracting officer and to SBA how they are meeting or have met the applicable performance of work requirements for each SDVO, HUBZone, WOSB or small business set-aside contract they perform as a joint venture.
+
+~jv-opposing
+## Opposing
+
+One commenter suggested use of an honor system for the reporting. SBA did not view this as a viable alternative. Others believed that certifications in the System for Award Management (SAM) should be sufficient.
+
+~jv-supporting
+## Supporting
+
+Other commenters supported the proposed approach as a reasonable way to ensure compliance. SBA believes that affirmative reporting by the joint venture parties to both the contracting officer and SBA will provide the necessary information to track the use and performance of joint ventures. SBA also believes that the certification and reporting requirements implemented in this rule will assist the Government in its ability to deter wrongdoing. Regular reporting and monitoring of the limitations on subcontracting requirements will allow all parties to know where the joint venture stands with respect to those requirements and what must be done to come into compliance in the future if the joint venture's performance is below the required amount at any point in time. A contracting officer will be able to more closely oversee the performance of a contract where the reports show inadequate performance to date.
+
+~jv-final
+## Final rule
+
+As such, the final rule adopts the proposed language requiring joint venture partners to annually report compliance to both the contracting officer and SBA.
+
 
 ~comments-hzjv
 ## HUBZone Joint Ventures
