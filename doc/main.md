@@ -56,13 +56,11 @@ Comments on:
 * [Canceling an MPA](##cancel-mpa) (mentor protégé agreement)
 * [Supporting comments](##supporting)
 * [One new program](##one)
-
-* 
-* Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
-* Comments on [place of performance](##comments-place)
-* Comments on [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
-* Comments on [joint venture certifications and performance of work reports](##jvc)
-* Comments on [tracking joint venture awards](##jv-tracking)
+* [Definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
+* [Place of performance](##comments-place)
+* [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
+* [Joint venture certifications and performance of work reports](##jvc)
+* [Tracking joint venture awards](##jv-tracking)
 
 ~expanding-comments
 ## Expanding 
