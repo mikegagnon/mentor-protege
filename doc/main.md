@@ -66,8 +66,25 @@ Comments on:
 ~c-applications
 ## Applications
 
-As noted above, SBA proposed implementing one universal small business mentor-protégé program instead of a separate mentor-protégé program for each type of small business (i.e., HUBZone, SDVO, WOSB program, and small business). In addition, the proposed rule indicated that SBA intended to maintain a separate mentor- protégé program for eligible 8(a) BD Program Participants. The proposed rule provided that a small business seeking
-a mentor-protégé relationship would be required to submit an application to SBA and that SBA’s Director of Government Contracting (D/GC) would review and either approve or decline small business MPAs. SBA’s Associate Administrator for BD (AA/BD) would continue to review and approve or decline mentor-protégé relationships in the 8(a) BD program. Under the proposed language, an eligible 8(a) BD Program Participant could choose to seek SBA’s approval of a mentor-protégé relationship through the 8(a) BD program, or could seek a small business mentor-protégé relationship through SBA’s mentor-protégé program for all small businesses. SBA announced it was considering having one office review and either approve or decline all MPAs to ensure consistency in the process, and specifically sought comments as to whether that approach should be implemented. Finally, the supplementary information to the proposed rule provided that SBA may institute certain ‘‘open’’ and ‘‘closed’’ periods for the receipt of mentor-protégé applications if the number of firms seeking SBA to approve their mentor- protégé relationships becomes unwieldy. In such a case, SBA would then accept mentor-protégé applications only in ‘‘open’’ periods.
+* [Application review](##app-review)
+* SBA's plan to cope with a [high application volume](##app-coping)
+
+~app-coping
+## High application volume
+
+The supplementary information to the proposed rule provided that SBA may institute certain "open" and "closed" periods for the receipt of mentor-protégé applications if the number of firms seeking SBA to approve their mentor-protégé relationships becomes unwieldy. In such a case, SBA would then accept mentor-protégé applications only in "open" periods.
+
+
+~app-review
+## Application review
+
+The proposed rule provided that a small business seeking
+a mentor-protégé relationship would be required to submit an application to SBA and that SBA’s Director of Government Contracting (D/GC) would review and either approve or decline small business MPAs.
+
+SBA’s Associate Administrator for BD (AA/BD) would continue to review and approve or decline mentor-protégé relationships in the 8(a) BD program. Under the proposed language, an eligible 8(a) BD Program Participant could choose to seek SBA’s approval of a mentor-protégé relationship through the 8(a) BD program, or could seek a small business mentor-protégé relationship through SBA’s mentor-protégé program for all small businesses. SBA announced it was considering having one office review and either approve or decline all MPAs to ensure consistency in the process, and specifically sought comments as to whether that approach should be implemented.
+
+
+d
 
 SBA received a significant number of comments regarding applications for mentor-protégé relationships. Commenters applauded SBA’s proposal to keep the 8(a) BD mentor-protégé program separate from the small business mentor-protégé program. Commenters also supported establishing a separate office to process applications for the small business mentor-protégé program. The commenters were concerned, however, about the administrative burden the additional small business mentor-protégé program will have on SBA’s resources. They felt that the volume of firms seeking mentor- protégé relationships could excessively delay SBA’s processing of applications. Commenters also opposed the proposal to have open enrollment periods to receive small business mentor-protégé applications. They thought that such a process would cause significant delays in allowing firms to benefit from the mentor-protégé program. They also felt that open enrollment periods could cause firms to miss out on developmental procurement opportunities if they had to wait several months before they could apply to participate in the program. If there were open enrollment periods, then commenters believed that firms should be processed on a first come first served basis, and different types of small businesses should not be given priority or processed first over other types of small businesses.
 
