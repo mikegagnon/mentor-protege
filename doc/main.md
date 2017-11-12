@@ -67,8 +67,8 @@ Comments on:
 ## Applications
 
 * [Application review](##app-review)
-* SBA's plan to cope with a [high application volume](##app-coping)
-
+* [High application volume](##app-coping)
+* [Comments](##app-comments) on the application process
 ~app-coping
 ## High application volume
 
@@ -84,12 +84,47 @@ a mentor-protégé relationship would be required to submit an application to SB
 SBA’s Associate Administrator for BD (AA/BD) would continue to review and approve or decline mentor-protégé relationships in the 8(a) BD program. Under the proposed language, an eligible 8(a) BD Program Participant could choose to seek SBA’s approval of a mentor-protégé relationship through the 8(a) BD program, or could seek a small business mentor-protégé relationship through SBA’s mentor-protégé program for all small businesses. SBA announced it was considering having one office review and either approve or decline all MPAs to ensure consistency in the process, and specifically sought comments as to whether that approach should be implemented.
 
 
-d
+~app-comments
+## Comments
 
-SBA received a significant number of comments regarding applications for mentor-protégé relationships. Commenters applauded SBA’s proposal to keep the 8(a) BD mentor-protégé program separate from the small business mentor-protégé program. Commenters also supported establishing a separate office to process applications for the small business mentor-protégé program. The commenters were concerned, however, about the administrative burden the additional small business mentor-protégé program will have on SBA’s resources. They felt that the volume of firms seeking mentor- protégé relationships could excessively delay SBA’s processing of applications. Commenters also opposed the proposal to have open enrollment periods to receive small business mentor-protégé applications. They thought that such a process would cause significant delays in allowing firms to benefit from the mentor-protégé program. They also felt that open enrollment periods could cause firms to miss out on developmental procurement opportunities if they had to wait several months before they could apply to participate in the program. If there were open enrollment periods, then commenters believed that firms should be processed on a first come first served basis, and different types of small businesses should not be given priority or processed first over other types of small businesses.
 
-SBA understands the concerns raised by the commenters. It is not SBA’s intent to delay participation in the small business mentor-protégé program. In order to reduce the processing time for
-a small business mentor-protégé application, SBA considered changing final approval from the D/GC to six senior SBA district directors. SBA thought that six decision makers instead of one might speed up the processing time for applications and eliminate the need for open enrollment periods. However, such a structure could also cause inconsistent results and could require more overall resources (by requiring additional staff in six different locations) than simply providing adequate staff at one location. SBA recognizes that the D/GC is responsible for many other functions, and understands several commenters’ concerns that mentor-protégé applications might not be the highest priority of that office. Therefore, SBA intends to establish a separate unit within the Office of Business Development whose sole function would be to process mentor-protégé applications and review the MPAs and the assistance provided under them once approved. This final rule provides that this new unit will process and make determinations with respect to all small business MPAs, with the ultimate decision to be made by the AA/BD or his/her designee. SBA believes that the efficiencies gained by having a dedicated staff for the small business mentor-protégé program will allow SBA to timely process applications for mentor-protégé status, and that the need for open and closed enrollment periods will be reduced. Of course, it is still possible that the number of applications could overwhelm the dedicated small business mentor-protégé unit. If that is the case, open enrollment periods could still be a possibility. Several commenters suggested that SBA may have an enormous volume of applications, and others suggested otherwise. SBA believes that additional information is needed before a decision to control the acceptance of applications is necessary. If the need arises, SBA will provide advance notice to allow potential applicants the opportunity to properly plan.
+SBA received a significant number of comments regarding applications for mentor-protégé relationships.
+
+* [Supporting](##app-comments-support) comments
+* [Opposing](##app-comments-oppose) comments
+* [SBA's response](##app-comments-response)
+
+~app-comments-support
+## Supporting
+
+Commenters applauded SBA’s proposal to keep the 8(a) BD mentor-protégé program separate from the small business mentor-protégé program. Commenters also supported establishing a separate office to process applications for the small business mentor-protégé program.
+
+~app-comments-oppose
+## Concern
+
+The commenters were concerned, however, about the administrative burden the additional small business mentor-protégé program will have on SBA’s resources. They felt that the volume of firms seeking mentor-protégé relationships could excessively delay SBA’s processing of applications. Commenters also opposed the proposal to have open enrollment periods to receive small business mentor-protégé applications. They thought that such a process would cause significant delays in allowing firms to benefit from the mentor-protégé program. They also felt that open enrollment periods could cause firms to miss out on developmental procurement opportunities if they had to wait several months before they could apply to participate in the program. If there were open enrollment periods, then commenters believed that firms should be processed on a first come first served basis, and different types of small businesses should not be given priority or processed first over other types of small businesses.
+
+~app-comments-response
+## SBA's response
+
+* SBA considered having six [senior SBA district directors](##app-comments-six) process applications
+* SBA decided to have [dedicated staff](##app-comments-staff) process applications
+* SBA believes having a dedicated staff will improve the [efficiency](##app-comments-quick) of the application-review process
+
+~app-comments-six
+## Senior SBA district directors
+
+SBA understands the concerns raised by the commenters. It is not SBA's intent to delay participation in the small business mentor-protégé program. In order to reduce the processing time for a small business mentor-protégé application, SBA considered changing final approval from the D/GC to six senior SBA district directors. SBA thought that six decision makers instead of one might speed up the processing time for applications and eliminate the need for open enrollment periods. However, such a structure could also cause inconsistent results and could require more overall resources (by requiring additional staff in six different locations) than simply providing adequate staff at one location.
+
+~app-comments-staff
+## Dedicated staff
+
+SBA recognizes that the D/GC is responsible for many other functions, and understands several commenters’ concerns that mentor-protégé applications might not be the highest priority of that office. Therefore, SBA intends to establish a separate unit within the Office of Business Development whose sole function would be to process mentor-protégé applications and review the MPAs and the assistance provided under them once approved. This final rule provides that this new unit will process and make determinations with respect to all small business MPAs, with the ultimate decision to be made by the AA/BD or his/her designee.
+
+~app-comments-quick
+## Efficiency
+
+SBA believes that the efficiencies gained by having a dedicated staff for the small business mentor-protégé program will allow SBA to timely process applications for mentor-protégé status, and that the need for open and closed enrollment periods will be reduced. Of course, it is still possible that the number of applications could overwhelm the dedicated small business mentor-protégé unit. If that is the case, open enrollment periods could still be a possibility. Several commenters suggested that SBA may have an enormous volume of applications, and others suggested otherwise. SBA believes that additional information is needed before a decision to control the acceptance of applications is necessary. If the need arises, SBA will provide advance notice to allow potential applicants the opportunity to properly plan.
 
 
 
