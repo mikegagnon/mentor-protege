@@ -53,7 +53,8 @@ Most of the commenters commented on multiple proposed provisions. With the excep
 Comments on:
 
 * [Expanding](##expanding-comments) beyond 8(a) BD
-* One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement).
+* [Canceling an MPA](##cancel-mpa) (mentor protégé agreement)
+
 * Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 * Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
 * Comments on the [definition](##definition-jv) of Joint Venture (13 CFR 121.103(h))
@@ -376,7 +377,9 @@ The rule adds this program to a new § 125.9 of SBA’s regulations.
 These commenters believed that a small business mentor-protégé  program would enable firms that are not in the 8(a) BD program to receive critical business development assistance that would otherwise not be available to them. Many of these commenters expressed support for the opportunity to gain meaningful expertise that would help them to independently perform more complex and higher value contracts in the future.
 
 ~cancel-mpa
-## Cancel a MPA
+## Cancel an MPA
+
+One commenter requested clarification as to when and how SBA would cancel a MPA.
 
 SBA’s analysis as to whether a protégé  firm is adequately benefiting from the relationship or whether non-compliance with one or more specific terms or conditions of the MPA should warrant termination of the agreement is a fact specific determination to be made based on the totality of the circumstances. SBA would not terminate a particular MPA where there are de minimus or inadvertent violations of the agreement.
 In addition, it is not SBA’s intent to terminate a particular MPA without considering the views of the protégé firm. However, the mere fact that a protégé wants the mentor-protégé relationship to continue will not be dispositive if SBA believes that termination is justified.
