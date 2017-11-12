@@ -50,8 +50,9 @@ Most of the commenters commented on multiple proposed provisions. With the excep
 ~c113
 ## 113 comments
 
-* One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program,
-and [SBA disagreed](##sba-disagree).
+Comments on:
+
+* [Expanding](##expanding-comments) beyond 8(a) BD
 * One commenter requested clarification as to when and how SBA would [cancel a MPA](##cancel-mpa) (mentor protégé agreement).
 * Conversely, SBA received a significant number of comments [supporting](##supporting) a small business mentor-protégé  program.
 * Most commenters supported having [one](##one) new small business mentor-protégé program instead of four new mentor-protégé programs.
@@ -60,6 +61,11 @@ and [SBA disagreed](##sba-disagree).
 * Comments on [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
 * Comments on [joint venture certifications and performance of work reports](##jvc)
 * Comments on [tracking joint venture awards](##jv-tracking)
+
+~expanding-comments
+## Expanding 
+
+One commenter [opposed](##opposed) expanding the mentor-protégé  program beyond the 8(a) BD program, and [SBA disagreed](##sba-disagree).
 
 ~jv-tracking
 ## Tracking joint venture awards
