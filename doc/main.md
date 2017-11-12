@@ -70,11 +70,34 @@ One commenter [opposed](##opposed) expanding the mentor-protégé  program beyon
 ~jv-tracking
 ## Tracking joint venture awards
 
-The proposed rule announced that SBA was considering various methods of tracking awards to the joint ventures permitted by SBA’s regulations. The possible approaches included: Requiring all joint ventures permitted by the regulations to include in their names "small business joint venture,"" and, if a mentor-protégé joint venture, to include in their names "mentor-protégé small business joint venture;" requiring contracting officers to identify awards as going to small business joint ventures or to mentor-protégé small business joint ventures; requiring SBCs to amend their SAM entries to specify that they have formed a joint venture; requiring each joint venture to get a separate DUNS number; or a combination of all of these actions. SBA sought to ensure that governmental agencies and members of the public could track joint venture awards, which would promote transparency and accountability. SBA specifically asked for comments on how best to track awards to joint ventures. SBA believes a tracking approach will deter fraudulent or improper conduct, and promote compliance with SBA’s regulations.
+The proposed rule announced that SBA was considering [various methods](##possible-approaches) of tracking awards to the joint ventures permitted by SBA’s regulations.
 
-SBA received numerous comments on these proposals both in support and in opposition to the alternate approaches contemplated. Several commenters opposed the naming requirement, expressing concern about the administrative burden on the participating firms to change names, establish duns numbers and meet other compliance requirements in order to meet this requirement. Other commenters recommended that the cleanest way to track awards to joint ventures would in fact be to require a joint venture to form a new entity in SAM and identity itself to be a joint venture in SAM. Several commenters suggested the SAM system adopt a certification for joint ventures, or alternatively contracting officers designate in SAM that an award was made to a joint venture.
+SBA specifically asked for comments on how best to track awards to joint ventures. SBA believes a tracking approach will deter fraudulent or improper conduct, and promote compliance with SBA’s regulations.
+
+SBA received numerous comments on these proposals both in support and in [opposition](##track-oppose) to the alternate approaches contemplated.
+
+This final rule requires joint ventures to be separately identified in [SAM](##comments-sam) so that awards to joint ventures can be properly accounted for.
+
+~track-support
+## Support
+
+~track-oppose
+## Opposition
+
+Several commenters opposed the naming requirement, expressing concern about the administrative burden on the participating firms to change names, establish duns numbers and meet other compliance requirements in order to meet this requirement. Other commenters recommended that the cleanest way to track awards to joint ventures would in fact be to require a joint venture to form a new entity in SAM and identity itself to be a joint venture in SAM. Several commenters suggested the SAM system adopt a certification for joint ventures, or alternatively contracting officers designate in SAM that an award was made to a joint venture.
+
+~comments-sam
+## SAM
 
 In response to the comments, SBA first notes that any SAM certification process is beyond SBA’s authority and outside the scope of this rule. SBA also notes that current participants in the 8(a) BD program annually report to SBA the joint venture awards they have received and how they are meeting the limitations on subcontracting requirements. To track small business joint venture awards, SBA could require similar reporting. However, SBA does not seek to impose any unnecessary burdens on small business. With that in mind, SBA believes that additional reporting is not necessary, but continues to believe that some sort of joint venture identification is required. Thus, this final rule requires joint ventures to be separately identified in SAM so that awards to joint ventures can be properly accounted for. A joint venture must be identified as a joint venture in SAM, with a separate DUNS number and CAGE number than those of the individual parties to the joint venture. In addition, the Entity Type in SAM must be identified as a joint venture, and the individual joint venture partners should also be listed.
+
+
+~possible-approaches
+## Various methods
+The possible approaches included: Requiring all joint ventures permitted by the regulations to include in their names "small business joint venture," and, if a mentor-protégé joint venture, to include in their names "mentor-protégé small business joint venture;" requiring contracting officers to identify awards as going to small business joint ventures or to mentor-protégé small business joint ventures; requiring SBCs to amend their SAM entries to specify that they have formed a joint venture; requiring each joint venture to get a separate DUNS number; or a combination of all of these actions. SBA sought to ensure that governmental agencies and members of the public could track joint venture awards, which would promote transparency and accountability.
+
+
+
 
 ~jvc
 ## Joint venture certifications and performance of work reports
