@@ -61,6 +61,10 @@ Comments on:
 * [HUBZone Joint Ventures](##comments-hzjv) (13 CFR 126.616)
 * [Joint venture certifications and performance of work reports](##jvc)
 * [Tracking joint venture awards](##jv-tracking)
+* [Applications](##c-applications) for SBA’s Small Business Mentor-Protégé Program (13 CFR 125.9)
+
+~c-applications
+## Applications
 
 ~expanding-comments
 ## Expanding 
