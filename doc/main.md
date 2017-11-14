@@ -68,6 +68,35 @@ Comments on:
 ~comments-proteges
 ## Protégé
 
+* [Comments](##c-protege-eligibility) and [response](##c-protege-eligibility-response) regarding protégé eligibility
+
+~c-protege-eligibility-response
+## Response
+
+SBA believes that consistency between the 8(a) BD mentor-protégé program and the small business mentor-protégé program is critical, particularly where this final rule authorizes an 8(a) mentor-protégé relationship to transition to a small business mentor-protégé relationship when the 8(a) protégé graduates from or otherwise leaves the 8(a) BD program. 
+
+Therefore, SBA believes that it does not make sense to have different rules regarding who can qualify as a protégé for the two mentor-protégé programs.<sup>[1](##c-protege-eligibility-response-1)</sup>
+
+For this reason, SBA agrees with the commenters who recommended that a firm that does not qualify as small for its primary NAICS code should be able to form a mentor-protégé relationship in a secondary NAICS code for which it does qualify as small.<sup>[2](##c-protege-eligibility-response-2)</sup>
+
+
+
+Thus, the final rule provides that a concern must qualify as small for the size standard corresponding to its primary NAICS code or identify that it is seeking business development assistance with respect to a secondary NAICS code and qualify as small for the size standard corresponding to that NAICS code.
+
+~c-protege-eligibility-response-2
+## Note 2
+
+However, SBA would not authorize mentor-protégé relationships in secondary NAICS codes where the firm had never performed any work in that NAICS code previously or where the protégé would bring nothing to a potential joint venture with its mentor other than its status as a small business. The intent of allowing joint ventures between a protégé firm and its mentor is to provide a protégé firm the opportunity to further develop its expertise and enhance its ability to independently perform similar contracts in the future. The mentor-protégé program is not intended to enable firms that have outgrown a particular size standard to find another industry in which they have no expertise or past performance merely to be able to continue to receive additional contracts as a small business. As long as the firm can demonstrate how the mentor-protégé relationship is a logical progression for the firm and will further develop current capabilities, SBA believes that a mentor-protégé relationship may be appropriate.
+
+~c-protege-eligibility-response-1
+## Note 1
+
+As such, SBA does not agree with the commenters who recommended that SBA continue to limit protégés in the 8(a) BD mentor-protégé program only to Participants whose size was less than half the size standard corresponding to their primary industry. Moreover, SBA feels that any small business could gain valuable business development assistance through the mentor-protégé program.
+
+
+~c-protege-eligibility
+## Comments
+
 In order to qualify as a protégé, the proposed rule required a business concern to qualify as small for the size standard corresponding to its primary NAICS code.<sup>[1](##comments-proteges-1)</sup>
 
 SBA received a significant number of comments supporting the change to loosen the requirements to qualify as a protégé for the 8(a) BD mentor-protégé program.<sup>[2](##comments-proteges-2)</sup>
