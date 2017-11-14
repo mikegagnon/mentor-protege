@@ -16,16 +16,16 @@
 ~purpose-8a
 ## Purpose of 8(a) BD
 
-The mentor-protégé program available to firms participating in the 8(a) BD program is used as a business development tool in which mentors provide diverse types of [business assistance](##ba) to eligible 8(a) BD protégés.
+The mentor-protégé program available to firms participating in the 8(a) BD program is used as a business development tool in which mentors provide diverse types of [business assistance](##ba) to eligible 8(a) BD protégé.
 
-The explicit purpose of the 8(a) BD mentor-protégé relationship is to enhance the capabilities of protégés and to improve their ability to successfully compete for both government and commercial contracts.
+The explicit purpose of the 8(a) BD mentor-protégé relationship is to enhance the capabilities of protégé and to improve their ability to successfully compete for both government and commercial contracts.
 
 Similarly, the mentor-protégé program for all small business concerns is designed to require approved mentors to provide [assistance](##a) to protégé firms.
 
 ~a
 ## Assistance
 
-The purpose of the assistance is to enhance the capabilities of protégés, to assist protégés with meeting their business goals, and to improve the ability of protégés to compete for contracts.
+The purpose of the assistance is to enhance the capabilities of protégé, to assist protégé with meeting their business goals, and to improve the ability of protégé to compete for contracts.
 
 ~ba
 ## Business assistance
@@ -63,6 +63,13 @@ Comments on:
 * [Tracking joint venture awards](##jv-tracking)
 * [Applications](##c-applications) for SBA’s Small Business Mentor-Protégé Program (13 CFR 125.9)
 * [Mentors](##comments-mentors) (13 CFR 124.520 and 125.9)
+* [Protégés](##comments-proteges)  (13 CFR 124.520 and 125.9)
+
+~comments-proteges
+## Protégé
+
+In order to qualify as a protégé, the proposed rule required a business concern to qualify as small for the size standard corresponding to its primary NAICS code. This was a departure for the current 8(a) BD mentor-protégé program, which required an 8(a) Program Participant to: Have a size that is less than half the size standard corresponding to its primary NAICS code; or be in the developmental stage of its 8(a) program participation; or not have received an 8(a) contract. SBA received a significant number of comments supporting the change to loosen the requirements to qualify as a protégé for the 8(a) BD mentor-protégé program. These commenters supported consistency between the two programs and believed that allowing more mature small businesses to participate as protégés in the 8(a) BD mentor-protégé program would facilitate more dynamic developmental assistance and strengthen the contractor base for government procurements. Several commenters also felt that the proposed change made the requirement clearer to understand and implement. Conversely, a few commenters did not support changes to the size of the protégé for the 8(a) BD mentor-protégé program. These commenters believed that the 8(a) mentor-protégé program should not be made available to larger, or successful, or experienced 8(a) Participants, and that allowing participation by firms that are close to exceeding their applicable size standard would thwart the purpose of the program. SBA also received several comments recommending that a firm should be able to form a mentor- protégé relationship as long as it qualified as small for the particular type of work for which a mentor-protégé relationship is sought, even if the firm no longer qualified as small for its primary business activity. These commenters believed that there would be no harm in allowing such a mentor-protégé relationship because the protégé firm would still have to qualify as a small business for any contract opportunity requiring status as a small business that it sought. In other words, if SBA approved a mentor-protégé relationship that focused on assisting a firm to gain access to or expand its experience in a particular industry or NAICS code where the proposed protégé firm qualified as a small business for the size standard corresponding to that NAICS code but not for the size standard corresponding to its primary industry, the protégé firm could form a joint venture with its mentor and be considered small for a contract opportunity only where the protégé firm qualified as small. It could not take that mentor-protégé relationship, form a joint venture and be considered small for contract opportunities in the
+protégé ’s primary industry if the protégé did not qualify as small for that NAICS code.
 
 ~comments-mentors
 ## Mentors
@@ -73,13 +80,13 @@ Comments on:
 * Mentor businesses may be of [any size](##comments-mentor-size)
 * Some commenters objected to the requirement that mentor businesses must "possess a [good financial condition](##comments-mentor-finance)"
 * In response to those comments, SBA [dropped](##comments-mentor-drop) the above-mentioned requirement, and replaced it with a requirement that mentors must demonstrate that they can fulfill the obligations under the MPA
-* Mentors may mentor up to [three protégés](##three-prot) at a time, and SBA received [comments](##comments-three-comment) on both sides of this issue. SBA [responded](##comments-three-response) that
-it will only allow mentors to have a maximum of three protégés.
+* Mentors may mentor up to [three protégé](##three-prot) at a time, and SBA received [comments](##comments-three-comment) on both sides of this issue. SBA [responded](##comments-three-response) that
+it will only allow mentors to have a maximum of three protégé.
 
 
 
 ~three-prot
-## Three protégés
+## Three protégé
 
 In addition, the proposed rule provided that a mentor participating in any SBA-approved mentor-protégé program would generally have no more than one protégé at a time. It also provided that SBA could authorize a concern to mentor more than one protégé at a time where it can demonstrate that the additional mentor- protégé relationship would not adversely affect the development of either protégé firm (e.g., the second firm may not be a competitor of the first firm). The rule also proposed, however, that no firm could be a mentor of more than three protégé s in the aggregate at one time under either of the mentor- protégé programs authorized by
 § 124.520 or § 125.9. A mentor could choose to have: Up to three protégé s in the 8(a) BD program; or up to three protégé s in the small business program; or one or more protégé s in one program and one or more in another program, but no more than three protégé s in the aggregate. 
@@ -122,7 +129,7 @@ SBA agrees that the "good financial condition" requirement has caused some confu
 A few commenters believed that all SBA should care about is whether a mentor can adequately provide needed business development assistance to a proposed protégé. If they could, these commenters believed that a specific firm could be a mentor for more than three protégé firms. They argued that some of the best potential mentors could be large firms that were already mentoring other small businesses, and by limiting the number of protégé s that a mentor could have could deprive a particular firm of a mentor that could be an ideal partner.
 
 Conversely, several other commenters agreed with SBA that allowing one firm to mentor an unlimited number of
-protégé firms could allow a large business to unduly benefit from contracts that are intended to primarily benefit small business. One commenter believed that allowing three protégés at the same time for one mentor was too much, and recommended restricting it to two protégé firms at one time.
+protégé firms could allow a large business to unduly benefit from contracts that are intended to primarily benefit small business. One commenter believed that allowing three protégé at the same time for one mentor was too much, and recommended restricting it to two protégé firms at one time.
 
 ~comments-three-response
 ## SBA responded
@@ -137,7 +144,7 @@ Finally, the proposed rule provided that a protégé in the small business mento
 ~comments-three-response-3
 ## Note 3
 
-That proposal was patterned off the 8(a) BD mentor-protégé program. SBA received several comments opposing this proposal. The commenters felt that firms that have themselves been protégés may be in the best position to act as mentors. In addition, they argued that just because a firm can act as a mentor to smaller or less experienced firms does not mean that they too don’t need help getting to the next level. They did not believe that it would make sense to require a current protégé to terminate the MPA with its mentor before it will be approved as a mentor to another small business concern. The commenters believed that in both the 8(a) BD and small business mentor-protégé programs a firm should be permitted to be both a protégé and mentor in appropriate circumstances. 
+That proposal was patterned off the 8(a) BD mentor-protégé program. SBA received several comments opposing this proposal. The commenters felt that firms that have themselves been protégé may be in the best position to act as mentors. In addition, they argued that just because a firm can act as a mentor to smaller or less experienced firms does not mean that they too don’t need help getting to the next level. They did not believe that it would make sense to require a current protégé to terminate the MPA with its mentor before it will be approved as a mentor to another small business concern. The commenters believed that in both the 8(a) BD and small business mentor-protégé programs a firm should be permitted to be both a protégé and mentor in appropriate circumstances. 
 
 ~comments-three-response-2
 ## Note 2
@@ -148,7 +155,7 @@ That proposal was patterned off the 8(a) BD mentor-protégé program. SBA receiv
 ## Note 1
  Although SBA believes that the small business mentor-protégé program will certainly afford business development opportunities to many small businesses, SBA remains concerned about large businesses benefiting disproportionately.
 
-If one firm could be a mentor for an unlimited number (or even a larger limited number) of protégés, that firm would receive benefits from the mentor-protégé program through joint ventures and possible stock ownership far beyond the benefits to be derived by any individual protégé.
+If one firm could be a mentor for an unlimited number (or even a larger limited number) of protégé, that firm would receive benefits from the mentor-protégé program through joint ventures and possible stock ownership far beyond the benefits to be derived by any individual protégé.
 
 
 
@@ -307,7 +314,7 @@ To further this purpose, the HUBZone program regulations permitted a joint ventu
 ~hub-commenters
 ## Commenters
 
-SBA received a significant number of comments on this provision. The commenters overwhelmingly supported allowing a HUBZone qualified SBC that obtained an SBA-approved small business mentor-protégé relationship to be able to joint venture with its mentor on all contracts for which the protégé individually qualified, including HUBZone contracts. The commenters felt that such a provision would allow protégés to perform contracts that they otherwise could not have obtained and truly provide them with expertise and past performance that would help them to individually perform additional contracts in the future.
+SBA received a significant number of comments on this provision. The commenters overwhelmingly supported allowing a HUBZone qualified SBC that obtained an SBA-approved small business mentor-protégé relationship to be able to joint venture with its mentor on all contracts for which the protégé individually qualified, including HUBZone contracts. The commenters felt that such a provision would allow protégé to perform contracts that they otherwise could not have obtained and truly provide them with expertise and past performance that would help them to individually perform additional contracts in the future.
 
 [Continue](##hub-commenters-2)
 ~hub-commenters-2
@@ -640,7 +647,7 @@ Finally, section 1641 requires the head of each Federal department or agency car
 ~nearly
 ## Nearly
 
-SBA may modify the program to the extent necessary, given the types of small business concerns to be included as protégés.
+SBA may modify the program to the extent necessary, given the types of small business concerns to be included as protégé.
 
 ~1641
 ## Section 1641

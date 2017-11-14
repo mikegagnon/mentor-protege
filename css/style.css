@@ -4,7 +4,6 @@
  */ 
 
 body {
-  overflow:hidden; /* This will remove the default scroll, not really needed, safer nonetheless */
   font-family: serif;
   font-size: 10pt;
 }
@@ -83,7 +82,6 @@ a {
 .column {
   position:absolute;
   left: 0px;
-  overflow:auto;
   border-color: #aa0;
   margin-left: 0px;
   margin-bottom: 10px;
