@@ -19,8 +19,18 @@
 - Why did SBA decide to have [one](##one) new mentor-protégé program, instead of multiple?
 - What is the [definition](##definition-jv) of a "joint venture?"
 - Where are the allowable [places of performance](##comments-place)?
-
-
+- Do HUBZone small businesses need to have [HUBZone mentors](##comments-hzjv)?
+- How do joint ventures [certify compliance](##jvc)?
+- How does SBA [track](##jv-tracking) joint venture awards?
+- How does SBA handle [applications](##c-applications)?
+- What are the [eligibility](##comments-mentor-elig) requirements for mentors?
+- Must a mentor be a certain [size](##comments-mentor-size) to be eligible?
+- Must a mentor “possess a [good financial condition](##comments-mentor-finance)?” SBA decided [no](##comments-mentor-drop).
+- [How many](##c-mentors-three) protégés may a mentor have?
+- What are the [eligibility](##c-protege-eligibility-response) requirements for protégés?
+- How many [mentors](##c-protege-multiple) may a protégé have?
+- Does SBA [verify](##c-protege-refrain) that protégés are actually small businesses?
+- Can a 8(a) BD business [transfer](##c-protege-transferring) to the small business mentor-protégé program?
 
 
 ~faq-proposal
@@ -100,7 +110,7 @@ Comments on:
 ## Protégé
 
 * [Comments](##c-protege-eligibility) and [response](##c-protege-eligibility-response) regarding protégé eligibility
-* One protégé may have up to [two mentors](##c-protege-multiple) mentors
+* One protégé may have up to [two mentors](##c-protege-multiple)
 * SBA decided to [refrain](##c-protege-refrain) from verifying that protégés are actually small businesses
 * [Transferring](##c-protege-transferring) from 8(a) BD to the small business mentor-protégé program
 
@@ -216,8 +226,12 @@ These commenters believed that there would be no harm in allowing such a mentor-
 * Mentor businesses may be of [any size](##comments-mentor-size)
 * Some commenters objected to the requirement that mentor businesses must "possess a [good financial condition](##comments-mentor-finance)"
 * In response to those comments, SBA [dropped](##comments-mentor-drop) the above-mentioned requirement, and replaced it with a requirement that mentors must demonstrate that they can fulfill the obligations under the MPA
-* Mentors may mentor up to [three protégé](##three-prot) at a time, and SBA received [comments](##comments-three-comment) on both sides of this issue. SBA [responded](##comments-three-response) that
-it will only allow mentors to have a maximum of three protégé.
+* SBA decided a mentor may have up to [three protégés](##c-mentors-three)
+
+~c-mentors-three
+## Three protégés
+Mentors may mentor up to [three protégé](##three-prot) at a time, and SBA received [comments](##comments-three-comment) on both sides of this issue. SBA [responded](##comments-three-response) that
+it will only allow mentors to have a maximum of three protégés.
 
 
 
@@ -301,6 +315,8 @@ If one firm could be a mentor for an unlimited number (or even a larger limited 
 * [Application review](##app-review)
 * [High application volume](##app-coping)
 * [Comments](##app-comments) on the application process
+* [SBA's response](##app-comments-response)
+
 ~app-coping
 ## High application volume
 
@@ -324,7 +340,6 @@ SBA received a significant number of comments regarding applications for mentor-
 
 * [Supporting](##app-comments-support) comments
 * [Opposing](##app-comments-oppose) comments
-* [SBA's response](##app-comments-response)
 
 ~app-comments-support
 ## Supporting
