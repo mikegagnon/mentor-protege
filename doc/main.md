@@ -69,6 +69,12 @@ Comments on:
 ## Protégé
 
 * [Comments](##c-protege-eligibility) and [response](##c-protege-eligibility-response) regarding protégé eligibility
+* One protégé may have up to [two mentors](##c-protege-multiple) mentors
+
+~c-protege-multiple
+## One protégé may have up to two mentors
+
+The proposed rule provided that a protégé participating in either of the mentor-protégé programs generally would have no more than one mentor at a time. However, it authorized a protégé to have two mentors where the two relationships would not compete or otherwise conflict with each other and the protégé demonstrates that the second relationship pertains to an unrelated, secondary NAICS code, or the first mentor does not possess the specific expertise that is the subject of the MPA with the second mentor. The comments supported this provision and, therefore, SBA adopts it in this final rule.
 
 ~c-protege-eligibility-response
 ## Response
