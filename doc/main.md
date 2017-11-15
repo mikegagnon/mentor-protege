@@ -105,6 +105,12 @@ Comments on:
 * [Applications](##c-applications) for SBA’s Small Business Mentor-Protégé Program (13 CFR 125.9)
 * [Mentors](##comments-mentors) (13 CFR 124.520 and 125.9)
 * [Protégés](##comments-proteges)  (13 CFR 124.520 and 125.9)
+* Mentor-Protégé Programs of [Other](##c-other) Departments and Agencies (13 CFR 125.10)
+
+~c-other
+## Mentor-Protégé Programs of Other Departments and Agencies
+
+As noted above, section 1641 of the NDAA 2013 provided that a Federal department or agency cannot carry out its own agency specific mentor-protégé program for small businesses unless the head of the department or agency submitted a plan for such a program to SBA and received the SBA Administrator’s approval of the plan. The NDAA 2013 specifically excluded the Department of Defense’s mentor- protégé program, but included all other current mentor-protégé programs of other agencies. Under its provisions, a department or agency that is currently conducting a mentor-protégé program (except the Department of Defense) may continue to operate that program for one year but must then go through the SBA approval process in order for the program to continue after one year. Thus, in order to continue to operate any current mentor-protégé program beyond one year after SBA’s mentor- protégé regulations are final, each department or agency would be required to obtain the SBA Administrator’s approval. These statutory provisions were proposed to be implemented in new § 125.10 of SBA’s regulations.
 
 ~comments-proteges
 ## Protégé
