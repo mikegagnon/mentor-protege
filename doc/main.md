@@ -30,7 +30,7 @@
 - What are the [eligibility](##c-protege-eligibility-response) requirements for protégés?
 - How many [mentors](##c-protege-multiple) may a protégé have?
 - Does SBA [verify](##c-protege-refrain) that protégés are actually small businesses?
-- Can a 8(a) BD business [transfer](##c-protege-transferring) to the small business mentor-protégé program?
+- Can an 8(a) BD small business [transfer](##c-protege-transferring) to the small business mentor-protégé program?
 
 
 ~faq-proposal
@@ -51,8 +51,8 @@
 - [Small Business Jobs Act of 2010](##sbja-2010)
 - [National Defense Authorization Act (NDAA) for Fiscal Year 2013](##ndaa-2013)
 - [80 FR 6618](##80-fr)
-- [Comments and responses](##comments) regarding 80 FR 6618
 - [Purpose of 8(a) BD](##purpose-8a)
+- [Comments and responses](##comments) regarding 80 FR 6618
 
 ~purpose-8a
 ## Purpose of 8(a) BD
