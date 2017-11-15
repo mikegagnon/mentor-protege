@@ -7,13 +7,41 @@
 
 ~faq
 ## FAQ
+
+- What [laws](##faq-laws) created the small-business mentor-protégé program? 
+- What was SBA's [original proposal](##faq-proposal) for the small-business mentor-protégé program?
+- What is the [purpose](##purpose-8a) of the 8(a) BD program?
+- What types of [assistance](##ba) do protégés receive?
+- What is the [purpose](##a) of the assistance protégés receive?
+- What [comments](##comments) did SBA receive on their original proposal?
+- Under what circumstances would SBA [cancel](##cancel-mpa) a mentor-protégé agreement (MPA)?
+- Did the commenters [oppose](##expanding-comments) or [support](##supporting) expanding the small business mentor-protégé program beyond 8(a) BD?
+- Why did SBA decide to have [one](##one) new mentor-protégé program, instead of multiple?
+- What is the [definition](##definition-jv) of a "joint venture?"
+- Where are the allowable [places of performance](##comments-place)?
+
+
+
+
+~faq-proposal
+## Original proposal
+
+- [80 FR 6618](##80-fr)
+- [Comments and responses](##comments) regarding 80 FR 6618
+
+~faq-laws
+## What laws created the small-business mentor-protégé program? 
+
+- [Small Business Jobs Act of 2010](##sbja-2010)
+- [National Defense Authorization Act (NDAA) for Fiscal Year 2013](##ndaa-2013)
+
 ~background
 ## Background
 
 - [Small Business Jobs Act of 2010](##sbja-2010)
 - [National Defense Authorization Act (NDAA) for Fiscal Year 2013](##ndaa-2013)
 - [80 FR 6618](##80-fr)
-- [Comment period](##comments)
+- [Comments and responses](##comments) regarding 80 FR 6618
 - [Purpose of 8(a) BD](##purpose-8a)
 
 ~purpose-8a
@@ -39,7 +67,7 @@ This assistance may include, among other things, technical and/or management ass
 
 
 ~comments
-## Comment period
+## Comments and responses regarding 80 FR 6618
 
 The proposed rule called for a 60-day comment period,
 then SBA [extended](##extended-cp) the comment period another 30 days.
@@ -435,6 +463,9 @@ The commenters expressed that they felt that the purposes of the HUBZone program
 
 In the case of Latvian Connection General Trading and Construction LLC, B–408633, Sept. 18, 2013, 2013 CPD ¶ 224, GAO ruled that § 19.000(b) of the Federal Acquisition Regulation (FAR)limits the application of FAR part 19 (dealing with SBA’s small business programs) to acquisitions conducted in the United States (and its outlying areas).<sup>[1](##place-limits)</sup>
 
+SBA issued a final rule recognizing that small business contracting could be used "regardless of the place of performance." 13 CFR 125.2(a) and (c).
+
+
 The February 5, 2015 proposed rule proposed to add similar language to
 §§ 124.501, 125.22(b), 126.600, and 127.500, thus specifically authorizing contracting in the 8(a) BD, SDVO, HUBZone and WOSB programs regardless of the place of performance, where appropriate.<sup>[2](##place-feb5)</sup>
 
@@ -453,7 +484,8 @@ The commenters supported clarification of the current authority. The regulatory 
 ~place-limits
 ## Note 1
 
-The basis for GAO’s ruling was that SBA’s regulations were silent on this issue and therefore, the more specific FAR regulation controlled. Heeding this advice, SBA promulgated regulations to address this issue. Specifically, SBA made wholesale changes to 13 CFR 125.2 on October 2, 2013. As a result, SBA issued a final rule recognizing that small business contracting could be used "regardless of the place of performance." 13 CFR 125.2(a) and (c).
+The basis for GAO’s ruling was that SBA’s regulations were silent on this issue and therefore, the more specific FAR regulation controlled. Heeding this advice, SBA promulgated regulations to address this issue. Specifically, SBA made wholesale changes to 13 CFR 125.2 on October 2, 2013.
+
 
 
 ~definition-jv
