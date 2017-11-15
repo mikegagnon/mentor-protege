@@ -70,6 +70,26 @@ Comments on:
 
 * [Comments](##c-protege-eligibility) and [response](##c-protege-eligibility-response) regarding protégé eligibility
 * One protégé may have up to [two mentors](##c-protege-multiple) mentors
+* SBA decided to [refrain](##c-protege-refrain) from verifying that protégés are actually small businesses
+
+~c-protege-refrain
+## Refrain
+
+§ 125.9(c)(1) of the proposed rule required that SBA verify that a firm qualifies as a small business before approving that firm to act as a protégé in a small business mentor- protégé relationship.<sup>[1](##c-protege-refrain-1)</sup>
+
+Several commenters believed that such a requirement was overly burdensome.<sup>[2](##c-protege-refrain-2)</sup>
+
+SBA agrees, and as long as it is clear that SBA’s approval of a mentor-protégé relationship does not amount to a formal determination of size eligibility, SBA believes that the size protest procedures would in fact be sufficient to protect the integrity of the program.
+
+~c-protege-refrain-2
+## Note 2
+
+These commenters did not believe that size and 8(a) BD status were comparable. They argued that size has always been a self-certification process that is open to review and protest in connection with any individual procurement, and that the same should be true in the mentor-protégé context. They felt that SBA should be able to rely on the size self-certification of a firm seeking to qualify as small for a small business mentor-protégé relationship. The commenters believed that a firm approved to be a small business protégé would not gain any undue benefit from the program merely by entering a mentor-protégé relationship. If a firm that was approved to be a protégé was not in fact small and was awarded a joint venture contract with its mentor based solely on its status as a protégé, of course that would be objectionable. However, because the size protest procedures permit any interested party to protest the size of any apparent successful offeror, the commenters believed that a protégé that was not small would ultimately be found ineligible for award of the contract and, thus, would not unduly benefit from its mentor-protégé relationship.
+
+~c-protege-refrain-1
+## Note 1
+
+SBA was attempting to make eligibility for the small business mentor-protégé program similar to that of the 8(a) BD mentor- protégé program. Just as only firms that have been certified to be eligible to participate in the 8(a) BD program and verified to meet at least one of the three requirements set forth in the prior 8(a) BD regulations could be a protégé, the proposed rule would have permitted only those firms that have been affirmatively determined to be small to qualify as protégés for the small business mentor-protégé program.
 
 ~c-protege-multiple
 ## One protégé may have up to two mentors
