@@ -3,7 +3,10 @@
 - [Background](##background)
 - [History of the rule title](##history-title)
 - [Contact SBA](##contact)
+- [FAQ](##faq)
 
+~faq
+## FAQ
 ~background
 ## Background
 

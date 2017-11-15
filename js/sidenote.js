@@ -8,7 +8,7 @@ var Sidenote = {
 
   min_column_width: 50,
 
-  animationDuration: 600,
+  animationDuration: 500,
 
   // Copied from style.cs
   columnMargin_top: 0,
