@@ -71,11 +71,17 @@ Comments on:
 * [Comments](##c-protege-eligibility) and [response](##c-protege-eligibility-response) regarding protégé eligibility
 * One protégé may have up to [two mentors](##c-protege-multiple) mentors
 * SBA decided to [refrain](##c-protege-refrain) from verifying that protégés are actually small businesses
+* [Transferring](##c-protege-transferring) from 8(a) BD to the small business mentor-protégé program
+
+~c-protege-transferring
+## Transferring 
+
+The proposed rule provided that a protégé firm that graduates or otherwise leaves the 8(a) BD program but continues to qualify as a small business may transfer its 8(a) mentor-protégé relationship to a small business mentor-protégé relationship. Several commenters supported this proposal as a natural extension of SBA’s implementation of a small business mentor-protégé program. A few commenters sought clarification, however, as to whether the transfer from an 8(a) BD mentor-protégé relationship to a small business mentor-protégé relationship would be automatic or whether the protégé firm would have to apply and again receive SBA approval. It was not SBA’s intent to require a firm to apply to transfer its 8(a) BD mentor-protégé relationship to a small business mentor-protégé relationship. SBA intended that a firm merely inform SBA of its intent to transfer its mentor-protégé relationship. There would be no SBA review or approval required of such a transfer. As such, this final rule adopts the language of the proposed rule and adds clarifying language that a firm seeking to transfer its mentor-protégé relationship could do so by notification, without applying to and receiving approval from SBA to do so. In light of that change, the final rule also deletes § 124.520(d)(5) as unnecessary. That provision provided that SBA would not approve an 8(a) BD mentor-protégé relationship where the proposed protégé firm had less than six months remaining in its 8(a) program term. Because SBA will now permit an 8(a) protégé to transfer its mentor-protégé relationship to a small business mentor-protégé relationship after it leaves the 8(a) BD program (provided the firm continues to qualify as a small business), it does not make sense that SBA would not approve a mentor-protégé relationship for a proposed 8(a) protégé that has less than six months remaining in its program term. SBA will give such a firm the option of pursuing an 8(a) mentor-protégé relationship during its last six months in the 8(a) BD program, and then transferring that relationship to a small business mentor-protégé relationship when the protégé firm leaves the 8(a) BD program, or pursuing a small business mentor-protégé relationship during that same time frame.
 
 ~c-protege-refrain
 ## Refrain
 
-§ 125.9(c)(1) of the proposed rule required that SBA verify that a firm qualifies as a small business before approving that firm to act as a protégé in a small business mentor- protégé relationship.<sup>[1](##c-protege-refrain-1)</sup>
+§ 125.9(c)(1) of the proposed rule required that SBA verify that a firm qualifies as a small business before approving that firm to act as a protégé in a small business mentor-protégé relationship.<sup>[1](##c-protege-refrain-1)</sup>
 
 Several commenters believed that such a requirement was overly burdensome.<sup>[2](##c-protege-refrain-2)</sup>
 
@@ -89,7 +95,7 @@ These commenters did not believe that size and 8(a) BD status were comparable. T
 ~c-protege-refrain-1
 ## Note 1
 
-SBA was attempting to make eligibility for the small business mentor-protégé program similar to that of the 8(a) BD mentor- protégé program. Just as only firms that have been certified to be eligible to participate in the 8(a) BD program and verified to meet at least one of the three requirements set forth in the prior 8(a) BD regulations could be a protégé, the proposed rule would have permitted only those firms that have been affirmatively determined to be small to qualify as protégés for the small business mentor-protégé program.
+SBA was attempting to make eligibility for the small business mentor-protégé program similar to that of the 8(a) BD mentor-protégé program. Just as only firms that have been certified to be eligible to participate in the 8(a) BD program and verified to meet at least one of the three requirements set forth in the prior 8(a) BD regulations could be a protégé, the proposed rule would have permitted only those firms that have been affirmatively determined to be small to qualify as protégés for the small business mentor-protégé program.
 
 ~c-protege-multiple
 ## One protégé may have up to two mentors
@@ -173,13 +179,13 @@ it will only allow mentors to have a maximum of three protégé.
 ~three-prot
 ## Three protégé
 
-In addition, the proposed rule provided that a mentor participating in any SBA-approved mentor-protégé program would generally have no more than one protégé at a time. It also provided that SBA could authorize a concern to mentor more than one protégé at a time where it can demonstrate that the additional mentor- protégé relationship would not adversely affect the development of either protégé firm (e.g., the second firm may not be a competitor of the first firm). The rule also proposed, however, that no firm could be a mentor of more than three protégé s in the aggregate at one time under either of the mentor- protégé programs authorized by
+In addition, the proposed rule provided that a mentor participating in any SBA-approved mentor-protégé program would generally have no more than one protégé at a time. It also provided that SBA could authorize a concern to mentor more than one protégé at a time where it can demonstrate that the additional mentor-protégé relationship would not adversely affect the development of either protégé firm (e.g., the second firm may not be a competitor of the first firm). The rule also proposed, however, that no firm could be a mentor of more than three protégé s in the aggregate at one time under either of the mentor-protégé programs authorized by
 § 124.520 or § 125.9. A mentor could choose to have: Up to three protégé s in the 8(a) BD program; or up to three protégé s in the small business program; or one or more protégé s in one program and one or more in another program, but no more than three protégé s in the aggregate. 
 
 ~comments-mentor-elig
 ## Mentor eligibility
 
-The proposed rule permitted any for-profit business concern that demonstrates a commitment and the ability to assist small business concerns to be approved to act as a mentor and receive the benefits of the mentor- protégé relationship. SBA also proposed to limit mentors to for-profit business entities based on the language contained in the NDAA 2013. Section 1641 of the NDAA 2013 added section 45(d)(1) of the Small Business Act, 15 U.S.C. 657r(d)(1), which defines the term mentor to be "a for-profit business concern of any size." In order to make the 8(a) BD mentor-protégé program consistent with the small business mentor-protégé program, SBA proposed that mentors in the 8(a) BD mentor- protégé program must be for profit businesses as well. This was a change for the 8(a) BD program, which previously allowed non-profit entities to be mentors. SBA felt that the change to the 8(a) BD program made sense because Congress intended the new mentor-protégé program for small businesses to be as similar to the 8(a) BD mentor-protégé program as possible.
+The proposed rule permitted any for-profit business concern that demonstrates a commitment and the ability to assist small business concerns to be approved to act as a mentor and receive the benefits of the mentor-protégé relationship. SBA also proposed to limit mentors to for-profit business entities based on the language contained in the NDAA 2013. Section 1641 of the NDAA 2013 added section 45(d)(1) of the Small Business Act, 15 U.S.C. 657r(d)(1), which defines the term mentor to be "a for-profit business concern of any size." In order to make the 8(a) BD mentor-protégé program consistent with the small business mentor-protégé program, SBA proposed that mentors in the 8(a) BD mentor-protégé program must be for profit businesses as well. This was a change for the 8(a) BD program, which previously allowed non-profit entities to be mentors. SBA felt that the change to the 8(a) BD program made sense because Congress intended the new mentor-protégé program for small businesses to be as similar to the 8(a) BD mentor-protégé program as possible.
 
 ~comments-mentor-disagree
 ## Disagreed
@@ -193,7 +199,7 @@ Although SBA understands that the small business mentor-protégé programs autho
 
 ~comments-mentor-size
 ## Any size
-Because the language of section 45(d)(1) of the Small Business Act, 15 U.S.C. 657r(d)(1), specifies a mentor in the small business mentor-protégé program to be ‘‘a for-profit business concern of any size’’ and section 45(a)(2) of the Small Business Act, 15 U.S.C. 657r(a)(2), requires the mentor-protégé program for small businesses to be ‘‘identical to the [8(a) BD] mentor- protégé program . . . as in effect on the date of enactment of this section . . .,’’ which authorized large business mentors, this final rule authorizes only other than small businesses that are organized for profit to be mentors. Specifically, the final rule authorizes any ‘‘concern,’’ regardless of size, to be
+Because the language of section 45(d)(1) of the Small Business Act, 15 U.S.C. 657r(d)(1), specifies a mentor in the small business mentor-protégé program to be ‘‘a for-profit business concern of any size’’ and section 45(a)(2) of the Small Business Act, 15 U.S.C. 657r(a)(2), requires the mentor-protégé program for small businesses to be ‘‘identical to the [8(a) BD] mentor-protégé program . . . as in effect on the date of enactment of this section . . .,’’ which authorized large business mentors, this final rule authorizes only other than small businesses that are organized for profit to be mentors. Specifically, the final rule authorizes any ‘‘concern,’’ regardless of size, to be
 a mentor, and the term ‘‘concern’’ has historically been defined in SBA’s size regulations to mean a business entity organized for profit.
 
 ~comments-mentor-finance
@@ -224,7 +230,7 @@ a limit on the number of firms that one business, particularly one that is other
 
 In addition, the 8(a) BD program in effect at the time that the Jobs Act and the NDAA 2013, also limited mentors to having no more than three protégé firms.<sup>[2](##comments-three-response-2)</sup>
 
-Finally, the proposed rule provided that a protégé in the small business mentor-protégé program may not become a mentor and retain its protégé status. Commenters opposed, and SBA agreed with the opposition; thus, this final rule provides that SBA may authorize a small business to be both a protégé and a mentor at the same time where the firm can demonstrate that the second relationship will not compete or otherwise conflict with the first mentor- protégé relationship.<sup>[3](##comments-three-response-3)</sup>
+Finally, the proposed rule provided that a protégé in the small business mentor-protégé program may not become a mentor and retain its protégé status. Commenters opposed, and SBA agreed with the opposition; thus, this final rule provides that SBA may authorize a small business to be both a protégé and a mentor at the same time where the firm can demonstrate that the second relationship will not compete or otherwise conflict with the first mentor-protégé relationship.<sup>[3](##comments-three-response-3)</sup>
 
 ~comments-three-response-3
 ## Note 3
@@ -747,9 +753,9 @@ On January 2, 2013, the President signed into law the NDAA 2013, Public Law 112�
 
 On February 5, 2015, SBA published in the Federal Register a comprehensive proposal to implement a new Government-wide mentor-protégé program for all small businesses, 80 FR 6618.
 
-SBA decided to implement one new small business mentor-protégé program instead of [four](##four) new mentor- protégé programs
+SBA decided to implement one new small business mentor-protégé program instead of [four](##four) new mentor-protégé programs
 
-SBA [did not eliminate](##all-sb) the 8(a) BD mentor- protégé program.
+SBA [did not eliminate](##all-sb) the 8(a) BD mentor-gprotégé program.
 
 
 The small business mentor-protégé program was drafted to be as similar to the 8(a) mentor-protégé program as possible.
